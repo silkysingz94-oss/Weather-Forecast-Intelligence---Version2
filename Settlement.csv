@@ -1,0 +1,1971 @@
+lga,hdistrict,hward,SETTLEMENT_Name,hsettlement,population
+Banjul,Banjul South,Half Die,Banjul,101101,2504
+Banjul,Banjul South,Jollof Town,Banjul,101101,9
+Banjul,Banjul South,Jollof Town,Banjul,101201,2343
+Banjul,Banjul South,Portugiese Town,Banjul,101101,41
+Banjul,Banjul South,Portugiese Town,Banjul,101301,1110
+Banjul,Banjul Central,New Town East,Banjul,101101,62
+Banjul,Banjul Central,New Town East,Banjul,102101,4096
+Banjul,Banjul Central,New Town West,Banjul,101101,47
+Banjul,Banjul Central,New Town West,Banjul,102201,4315
+Banjul,Banjul Central,Soldier Town,Banjul,101101,19
+Banjul,Banjul Central,Soldier Town,Banjul,102301,1216
+Banjul,Banjul North,Box Bar,Banjul,101101,12
+Banjul,Banjul North,Box Bar,Banjul,103101,1738
+Banjul,Banjul North,Campama,Banjul,101101,592
+Banjul,Banjul North,Campama,Banjul,103201,6098
+Banjul,Banjul North,Crab Island,Banjul,101101,31
+Banjul,Banjul North,Crab Island,Banjul,103301,2219
+Kanifing,Bakau,Bakau New Town_Fajara,Bakau New Town,201101,14173
+Kanifing,Bakau,Bakau_Cape Point,Bakau New Town,201101,14
+Kanifing,Bakau,Bakau_Cape Point,Bakau New Town,201201,2772
+Kanifing,Bakau,Bakau_Cape Point,Bakau Wasulun,201201,1
+Kanifing,Bakau,Bakau_Cape Point,Bakau Wasulun,201202,10533
+Kanifing,Jeshwang,Old Jeshwang,Old Jeshwang,202101,17950
+Kanifing,Jeshwang,New Jeshwang and Ebo Town,Ebo Town,202202,20360
+Kanifing,Jeshwang,New Jeshwang and Ebo Town,New Jeshwang,202201,17243
+Kanifing,Jeshwang,Kanifing,Latrikunda / Pipeline,202302,1569
+Kanifing,Jeshwang,Kanifing,Latrikunda /Kanifing,202301,5861
+Kanifing,Serrekunda,Bartez,Serekunda,203101,9817
+Kanifing,Serrekunda,London Corner,Serekunda London Corner,203201,7081
+Kanifing,Tallinding Kunjang,Talinding North,Tallinding North,204101,21255
+Kanifing,Tallinding Kunjang,Talinding South,Tallinding South,204201,18938
+Kanifing,Bundungka Kunda,Bantaba_Borehole,Bundung,205101,34530
+Kanifing,Bundungka Kunda,Six Junction,Bundung,205101,37
+Kanifing,Bundungka Kunda,Six Junction,Bundung,205201,15418
+Kanifing,Latrikunda Sabiji,Abuko,Abuko,206101,21444
+Kanifing,Latrikunda Sabiji,Faji Kunda,Faji Kunda,206201,39266
+Kanifing,Latrikunda Sabiji,Sabiji,Latrikunda Sabiji,206301,16442
+Kanifing,Serrekunda West,Latri Kunda Yiringanya,Latrikunda Yiringanya,207101,12055
+Kanifing,Serrekunda West,Dippa Kunda,Dippa Kunda,207201,14124
+Kanifing,Serrekunda West,Dippa Kunda,Latrikunda Yiringanya,207202,6505
+Kanifing,Serrekunda West,Manjai Kunda,Dippa Kunda,207201,5
+Kanifing,Serrekunda West,Manjai Kunda,Dippa Kunda,207303,3114
+Kanifing,Serrekunda West,Manjai Kunda,Kotu,207301,13737
+Kanifing,Serrekunda West,Manjai Kunda,Manjai Kunda,207302,19745
+Kanifing,Serrekunda West,Kololi,Kololi,207402,10012
+Kanifing,Serrekunda West,Kololi,Kotu,207301,115
+Kanifing,Serrekunda West,Kololi,Kotu,207401,4969
+Kanifing,Serrekunda West,Bakoteh,Bakoteh,207501,20120
+Kanifing,,,Manjai Kunda,207302,1
+Brikama,Sanneh Mentereng,Bijilo,Bijilo,301101,9516
+Brikama,Sanneh Mentereng,Bijilo,Kerr Serign,301103,8325
+Brikama,Sanneh Mentereng,Bijilo,Sanchaba Sulay Jobe,301102,24625
+Brikama,Sanneh Mentereng,Sukuta,Sukuta,301201,74699
+Brikama,Sanneh Mentereng,Sukuta,Sukuta,301301,320
+Brikama,Sanneh Mentereng,Brufut,Brufut,301302,36630
+Brikama,Sanneh Mentereng,Brufut,Brufut Garden,301320,838
+Brikama,Sanneh Mentereng,Brufut,Brufut Ghana Town,301308,1290
+Brikama,Sanneh Mentereng,Brufut,Brufut Medina,301304,1351
+Brikama,Sanneh Mentereng,Brufut,Brusubi Estate,301306,8314
+Brikama,Sanneh Mentereng,Brufut,Madiana,301313,10543
+Brikama,Sanneh Mentereng,Brufut,Sotokoi,301305,1551
+Brikama,Sanneh Mentereng,Brufut,Sotokoi Allatentu,301322,1182
+Brikama,Sanneh Mentereng,Brufut,Sukuta,301201,166
+Brikama,Sanneh Mentereng,Brufut,Sukuta,301301,10031
+Brikama,Sanneh Mentereng,Brufut,Tranquil,301316,3980
+Brikama,Sanneh Mentereng,Brufut,Wullinkamma,301321,8896
+Brikama,Old Yundum,Wellingara_Nema,Nema Kunku,302104,39084
+Brikama,Old Yundum,Wellingara_Nema,Wellingara,302102,27332
+Brikama,Old Yundum,Kunkujang Keitaya,Kunkujang Keitaya,302203,33536
+Brikama,Old Yundum,Kunkujang Keitaya,Sinchu Alagie,302205,27404
+Brikama,Old Yundum,Kunkujang Keitaya,Sinchu Balia,302206,10130
+Brikama,Old Yundum,Kunkujang Keitaya,Sinchu Sorry,302207,14877
+Brikama,Old Yundum,Jabang,Jabang,302309,15884
+Brikama,Old Yundum,Jabang,Jamwelly,302310,4692
+Brikama,Old Yundum,Jabang,Labbakoreh,302311,2957
+Brikama,Old Yundum,Jabang,Latriya,302312,6771
+Brikama,Old Yundum,Jabang,Latriya Bantambilo,302301,1127
+Brikama,Old Yundum,Jabang,Mariama Kunda,302314,5349
+Brikama,Old Yundum,Jabang,Sukuta,301301,7
+Brikama,Old Yundum,Jabang,Tawuto,302315,5831
+Brikama,Old Yundum,Jabang,Yuna,302319,6081
+Brikama,Old Yundum,Jabang,Yundum Koto/Old Yundum,302317,24686
+Brikama,Busumbala,Lamin,Daranka,303102,6241
+Brikama,Busumbala,Lamin,Galloya,304103,16
+Brikama,Busumbala,Lamin,Kerewan,303103,14905
+Brikama,Busumbala,Lamin,Kubariko,303104,2369
+Brikama,Busumbala,Lamin,Kunkujang Jataya,303105,3151
+Brikama,Busumbala,Lamin,Lamin,303101,34568
+Brikama,Busumbala,Lamin,Makumbaya,303106,11680
+Brikama,Busumbala,Lamin,Mandinaring,303107,16621
+Brikama,Busumbala,Banjulnding,Banjulnding,303201,9126
+Brikama,Busumbala,Banjulnding,Busumbala,303207,60541
+Brikama,Busumbala,Banjulnding,Yundum Kuta/ New Yundum,303218,22982
+Brikama,Brikama North,Kembujeh,Bafuloto,304101,9445
+Brikama,Brikama North,Kembujeh,Brikama Darul Khairu,304102,6546
+Brikama,Brikama North,Kembujeh,Brikama Kabafita,304104,5358
+Brikama,Brikama North,Kembujeh,Brikama Missira,304107,6583
+Brikama,Brikama North,Kembujeh,Brikama Wellingara,304110,11338
+Brikama,Brikama North,Kembujeh,Farato Bojang Kunda,304109,13511
+Brikama,Brikama North,Kembujeh,Galloya,304103,1207
+Brikama,Brikama North,Kembujeh,Kembujeh,304105,10646
+Brikama,Brikama North,Kembujeh,Kubuneh,304106,2602
+Brikama,Brikama North,Kembujeh,Serekunda Nding,304108,946
+Brikama,Brikama North,Nyambai,Bonsa,304337,158
+Brikama,Brikama North,Nyambai,Brikama Babagalleh,304306,12968
+Brikama,Brikama North,Nyambai,Brikama Jamisa,304302,12184
+Brikama,Brikama North,Nyambai,Brikama Nema Geebungoto,304303,3484
+Brikama,Brikama North,Nyambai,Brikama Nema Taba,304304,1860
+Brikama,Brikama North,Nyambai,Brikama Newtown North,304305,1544
+Brikama,Brikama North,Nyambai,Brikama Nyambai Jambar Sanneh,304308,3170
+Brikama,Brikama North,Nyambai,Jalambang,304301,13457
+Brikama,Brikama North,Nyambai,Kassa Kunda,304319,2239
+Brikama,Brikama North,Nyambai,Nyonfelleh Medina (Busuranding),304338,1510
+Brikama,Brikama North,Nyambai,Taibatou Kuta,304336,733
+Brikama,Brikama South,Marakissa,Bajiran,305201,364
+Brikama,Brikama South,Marakissa,Bakary Sambouya,305203,4685
+Brikama,Brikama South,Marakissa,Brikama New Bojang Kunda,305213,4628
+Brikama,Brikama South,Marakissa,Brikama Santo Su,305411,16
+Brikama,Brikama South,Marakissa,Busura,305207,2015
+Brikama,Brikama South,Marakissa,Darsilameh,305209,2905
+Brikama,Brikama South,Marakissa,Dimbaya,305246,717
+Brikama,Brikama South,Marakissa,Jalambantang,305215,659
+Brikama,Brikama South,Marakissa,Jamwelly,302310,20
+Brikama,Brikama South,Marakissa,Jamwelly,305216,3366
+Brikama,Brikama South,Marakissa,Kabekel,305218,766
+Brikama,Brikama South,Marakissa,Kitty,305221,6847
+Brikama,Brikama South,Marakissa,Manduar,305224,10756
+Brikama,Brikama South,Marakissa,Marakissa,305226,3381
+Brikama,Brikama South,Marakissa,Medina Salanding,305228,5291
+Brikama,Brikama South,Marakissa,Naneto Siwon,305231,1137
+Brikama,Brikama South,Marakissa,Penyem,305232,2315
+Brikama,Brikama South,Suba,Brikama Bojang Kunda,305401,1384
+Brikama,Brikama South,Suba,Brikama Darsilameh,305402,5338
+Brikama,Brikama South,Suba,Brikama Dewruw,305403,596
+Brikama,Brikama South,Suba,Brikama Gidda,305404,18312
+Brikama,Brikama South,Suba,Brikama Hawla Kunda,305406,766
+Brikama,Brikama South,Suba,Brikama Mansaring-Su,305407,1156
+Brikama,Brikama South,Suba,Brikama Newtown South,305413,2999
+Brikama,Brikama South,Suba,Brikama Persevarance,305408,1306
+Brikama,Brikama South,Suba,Brikama Sanchaba,305409,10176
+Brikama,Brikama South,Suba,Brikama Sanneh Kunda,305410,2510
+Brikama,Brikama South,Suba,Brikama Santo Su,305411,5552
+Brikama,Brikama South,Suba,Brikama Suma Kunda,305412,1715
+Brikama,Brikama South,Suba,Medina Salanding,305228,2
+Brikama,Kombo South,Gunjur,Gunjur,306103,24488
+Brikama,Kombo South,Gunjur,Gunjur Kulkochi,306107,1092
+Brikama,Kombo South,Gunjur,Kachumeh,306106,907
+Brikama,Kombo South,Gunjur,Kajabang,306116,1286
+Brikama,Kombo South,Gunjur,Nyantang Faraba,306109,28
+Brikama,Kombo South,Gunjur,Sambuya Amisong,306110,197
+Brikama,Kombo South,Gunjur,Sambuya Konoto,306111,3422
+Brikama,Kombo South,Gunjur,Tabokoto,306117,530
+Brikama,Kombo South,Kartong,Berending,306204,2742
+Brikama,Kombo South,Kartong,Gunjur Kunkujang,306211,2239
+Brikama,Kombo South,Kartong,Kartong,306205,5215
+Brikama,Kombo South,Kartong,Madina Salaam,306207,3002
+Brikama,Kombo South,Kartong,Nyoffeleh,306208,2001
+Brikama,Kombo South,Kartong,Sandally,306213,386
+Brikama,Kombo South,Kartong,Siffoe,306210,8313
+Brikama,Kombo South,Kartong,Sinchu Wuri,306212,4093
+Brikama,Kombo South,Sanyang,Banyaka,306301,4899
+Brikama,Kombo South,Sanyang,Bato Kunku,306302,3762
+Brikama,Kombo South,Sanyang,Bunkilling Manjago,306306,957
+Brikama,Kombo South,Sanyang,Deya Besenti,306307,18
+Brikama,Kombo South,Sanyang,Deya Grrugory,306308,57
+Brikama,Kombo South,Sanyang,Deya Manchi,306310,131
+Brikama,Kombo South,Sanyang,Deya Nyima,306311,202
+Brikama,Kombo South,Sanyang,Faala Banding,306313,156
+Brikama,Kombo South,Sanyang,Faala Baniob,306314,461
+Brikama,Kombo South,Sanyang,Faala Bayacha,306315,497
+Brikama,Kombo South,Sanyang,Fara Kunku,306317,1493
+Brikama,Kombo South,Sanyang,Farato,306341,25656
+Brikama,Kombo South,Sanyang,Jambanjelly,306319,7723
+Brikama,Kombo South,Sanyang,Jambur,306320,14828
+Brikama,Kombo South,Sanyang,Kenending Saibel,306321,712
+Brikama,Kombo South,Sanyang,Kunkujang Mariama,306324,610
+Brikama,Kombo South,Sanyang,Madina Alagie Gai,306343,1407
+Brikama,Kombo South,Sanyang,Mahmuda,306325,6086
+Brikama,Kombo South,Sanyang,Ndimbuya Rumba,306326,1207
+Brikama,Kombo South,Sanyang,Nema Fula Kunda,306304,748
+Brikama,Kombo South,Sanyang,Pacholling Manga,306330,684
+Brikama,Kombo South,Sanyang,Sansanding,306334,225
+Brikama,Kombo South,Sanyang,Sanyang,306335,18116
+Brikama,Kombo South,Sanyang,Sare Biji,306303,1886
+Brikama,Kombo South,Sanyang,Tanjeh,306336,20471
+Brikama,Kombo South,Sanyang,Tintinto,306338,511
+Brikama,Kombo South,Sanyang,Tujereng,306339,12590
+Brikama,Kombo South,Sanyang,Tujereng Estate,306342,1329
+Brikama,Kombo South,Sanyang,Ya Faye Ya,306340,427
+Brikama,Kombo East,Giboro,Basori,307101,4997
+Brikama,Kombo East,Giboro,Duwasu,307102,624
+Brikama,Kombo East,Giboro,Fufo,307103,672
+Brikama,Kombo East,Giboro,Giboro Koto,307104,2094
+Brikama,Kombo East,Giboro,Giboro Kuta,307105,4119
+Brikama,Kombo East,Giboro,Gidda,307106,840
+Brikama,Kombo East,Giboro,Gidda Bajonki,307107,1656
+Brikama,Kombo East,Giboro,Jenung Kunda,307108,1241
+Brikama,Kombo East,Giboro,Kunkujang Jamanka,307117,61
+Brikama,Kombo East,Giboro,Madina Talokoto,307109,1505
+Brikama,Kombo East,Giboro,Mandina Ba,307110,5531
+Brikama,Kombo East,Giboro,Missiranding,307111,469
+Brikama,Kombo East,Giboro,Nigie,307112,406
+Brikama,Kombo East,Giboro,Omorto,307113,1043
+Brikama,Kombo East,Giboro,Sinchu Wellingara (Sinchu Alagie),307114,94
+Brikama,Kombo East,Giboro,Sohm,307115,1366
+Brikama,Kombo East,Giboro,Tuba Kuta,307116,3172
+Brikama,Kombo East,Kafuta,Bessending,307201,433
+Brikama,Kombo East,Kafuta,Faraba Banta,307214,3817
+Brikama,Kombo East,Kafuta,Faraba Banta Jalikassa,307202,222
+Brikama,Kombo East,Kafuta,Faraba Kairaba,307203,3802
+Brikama,Kombo East,Kafuta,Faraba Sutu,307204,968
+Brikama,Kombo East,Kafuta,Hamdalai,307205,476
+Brikama,Kombo East,Kafuta,Kafuta,307206,5018
+Brikama,Kombo East,Kafuta,Kafuta Tumbung,307207,480
+Brikama,Kombo East,Kafuta,Kangiraba,307208,56
+Brikama,Kombo East,Kafuta,Sanyanga,307209,661
+Brikama,Kombo East,Kafuta,Sotokoi,301305,10
+Brikama,Kombo East,Kafuta,Sotokoi,307210,1830
+Brikama,Kombo East,Kafuta,Suma Kunda Koto,307211,434
+Brikama,Kombo East,Kafuta,Tanene,307212,217
+Brikama,Kombo East,Kafuta,Tumani Tenda,307213,294
+Brikama,Kombo East,Pirang,Berending,306204,374
+Brikama,Kombo East,Pirang,Berending,307301,3684
+Brikama,Kombo East,Pirang,Berending Kobong,307307,196
+Brikama,Kombo East,Pirang,Bontokoto,307302,1257
+Brikama,Kombo East,Pirang,Bontokuta,307303,352
+Brikama,Kombo East,Pirang,Kuloro,307304,4943
+Brikama,Kombo East,Pirang,Kuloro,307306,1378
+Brikama,Kombo East,Pirang,Pirang,307305,3831
+Brikama,Foni Brefet,Bulock,Bajana,308101,1151
+Brikama,Foni Brefet,Bulock,Besse,308102,1110
+Brikama,Foni Brefet,Bulock,Bulock,308103,4704
+Brikama,Foni Brefet,Bulock,Jagil,308104,438
+Brikama,Foni Brefet,Bulock,Sutusinjang,308108,1966
+Brikama,Foni Brefet,Bulock,Touba,308109,153
+Brikama,Foni Brefet,Somita,Berefet,308213,423
+Brikama,Foni Brefet,Somita,Jalo Koto,308202,783
+Brikama,Foni Brefet,Somita,Kanaw,308204,132
+Brikama,Foni Brefet,Somita,Kanjabina,308205,257
+Brikama,Foni Brefet,Somita,Misera Njoben,308201,70
+Brikama,Foni Brefet,Somita,Ndemban Japichum,308209,1349
+Brikama,Foni Brefet,Somita,Ndemban Jola,308210,888
+Brikama,Foni Brefet,Somita,Ndemban Tenda,308211,278
+Brikama,Foni Brefet,Somita,Somita,308212,3626
+Brikama,Foni Bintang Karanai,Kusamai,Arangalen,309101,564
+Brikama,Foni Bintang Karanai,Kusamai,Bajagarr,309102,626
+Brikama,Foni Bintang Karanai,Kusamai,Batabutu Denelo,309103,153
+Brikama,Foni Bintang Karanai,Kusamai,Batabutu Kantora,309125,624
+Brikama,Foni Bintang Karanai,Kusamai,Batending (Ajapine),309104,117
+Brikama,Foni Bintang Karanai,Kusamai,Bukoffnye (Beeta),309105,388
+Brikama,Foni Bintang Karanai,Kusamai,Bulelai Jakisu,309128,60
+Brikama,Foni Bintang Karanai,Kusamai,Bulelai Mambin,309109,56
+Brikama,Foni Bintang Karanai,Kusamai,Gelembeh,309112,148
+Brikama,Foni Bintang Karanai,Kusamai,Gibanack,309124,16
+Brikama,Foni Bintang Karanai,Kusamai,Gilanfarr,309107,117
+Brikama,Foni Bintang Karanai,Kusamai,Jakine,309108,89
+Brikama,Foni Bintang Karanai,Kusamai,Janack,309111,459
+Brikama,Foni Bintang Karanai,Kusamai,Jifanga,309113,409
+Brikama,Foni Bintang Karanai,Kusamai,Kamosorr,309115,58
+Brikama,Foni Bintang Karanai,Kusamai,Karanai,309127,33
+Brikama,Foni Bintang Karanai,Kusamai,Kayanga,309114,121
+Brikama,Foni Bintang Karanai,Kusamai,Kayimu Karanai,309116,154
+Brikama,Foni Bintang Karanai,Kusamai,Killy,309126,610
+Brikama,Foni Bintang Karanai,Kusamai,Kusamai,309117,278
+Brikama,Foni Bintang Karanai,Kusamai,Nya Bolong,309118,194
+Brikama,Foni Bintang Karanai,Kusamai,Sita,309119,306
+Brikama,Foni Bintang Karanai,Kusamai,Sita Nunku,309120,59
+Brikama,Foni Bintang Karanai,Kusamai,Siwol,309121,398
+Brikama,Foni Bintang Karanai,Kusamai,Tamba Kunda,309122,238
+Brikama,Foni Bintang Karanai,Kusamai,Upert,309123,162
+Brikama,Foni Bintang Karanai,Sibanorr,Bajilo,309202,155
+Brikama,Foni Bintang Karanai,Sibanorr,Bantending Kajara,309204,419
+Brikama,Foni Bintang Karanai,Sibanorr,Bintang,309205,723
+Brikama,Foni Bintang Karanai,Sibanorr,Bulanjorr,309206,427
+Brikama,Foni Bintang Karanai,Sibanorr,Buniadu (Bakakul),309207,953
+Brikama,Foni Bintang Karanai,Sibanorr,Buram,309208,239
+Brikama,Foni Bintang Karanai,Sibanorr,Fass Njie,309203,63
+Brikama,Foni Bintang Karanai,Sibanorr,Jakoi Bintang,309209,250
+Brikama,Foni Bintang Karanai,Sibanorr,Jakoi Sibirick,309211,468
+Brikama,Foni Bintang Karanai,Sibanorr,Jarko Kanjenu,309210,167
+Brikama,Foni Bintang Karanai,Sibanorr,Kabokorr,309212,414
+Brikama,Foni Bintang Karanai,Sibanorr,Kaira Manjafa,309213,34
+Brikama,Foni Bintang Karanai,Sibanorr,Kandonku,309214,593
+Brikama,Foni Bintang Karanai,Sibanorr,Kanuma,309215,430
+Brikama,Foni Bintang Karanai,Sibanorr,Kasila,309217,95
+Brikama,Foni Bintang Karanai,Sibanorr,Kassagne,309218,352
+Brikama,Foni Bintang Karanai,Sibanorr,Katakorr,309219,826
+Brikama,Foni Bintang Karanai,Sibanorr,Kayimu Bintang,309220,251
+Brikama,Foni Bintang Karanai,Sibanorr,Manyina,309222,627
+Brikama,Foni Bintang Karanai,Sibanorr,Nyangit,309223,89
+Brikama,Foni Bintang Karanai,Sibanorr,Paima,309224,105
+Brikama,Foni Bintang Karanai,Sibanorr,Sibanorr,309225,3633
+Brikama,Foni Bintang Karanai,Sibanorr,Sikon,309226,156
+Brikama,Foni Bintang Karanai,Sibanorr,Tampoto Koto,309227,157
+Brikama,Foni Bintang Karanai,Sibanorr,Tampoto Kuta,309229,503
+Brikama,Foni Bintang Karanai,Sibanorr,Tuba Kuta,309228,44
+Brikama,Foni Kansala,Bwiam,Baipal,310101,83
+Brikama,Foni Kansala,Bwiam,Ballen,310103,200
+Brikama,Foni Kansala,Bwiam,Bugingha,310104,370
+Brikama,Foni Kansala,Bwiam,Bwiam,310105,2642
+Brikama,Foni Kansala,Bwiam,Bwiam Jola/Bajonkoto,310102,134
+Brikama,Foni Kansala,Bwiam,Dobong,310106,896
+Brikama,Foni Kansala,Bwiam,Gibangarr,310108,159
+Brikama,Foni Kansala,Bwiam,Ginier,310109,109
+Brikama,Foni Kansala,Bwiam,Kambagal,310110,33
+Brikama,Foni Kansala,Bwiam,Kambong,310111,192
+Brikama,Foni Kansala,Bwiam,Kambong Medina,310118,109
+Brikama,Foni Kansala,Bwiam,Kampant,310112,214
+Brikama,Foni Kansala,Bwiam,Kankuntu,310113,449
+Brikama,Foni Kansala,Bwiam,Kappa,310114,167
+Brikama,Foni Kansala,Bwiam,Kerinorr,310115,192
+Brikama,Foni Kansala,Bwiam,Kurinolai,310116,282
+Brikama,Foni Kansala,Bwiam,Luluchorr,310117,102
+Brikama,Foni Kansala,Bwiam,Santamba,310119,130
+Brikama,Foni Kansala,Bwiam,Saringa,310120,86
+Brikama,Foni Kansala,Kanilai,Barrow Kunda,310201,65
+Brikama,Foni Kansala,Kanilai,Bujiling,310203,165
+Brikama,Foni Kansala,Kanilai,Buluntu,310202,524
+Brikama,Foni Kansala,Kanilai,Bunubor,310204,94
+Brikama,Foni Kansala,Kanilai,Bunyai_Ba,310205,82
+Brikama,Foni Kansala,Kanilai,Bunyainding,310229,38
+Brikama,Foni Kansala,Kanilai,Burock,310206,276
+Brikama,Foni Kansala,Kanilai,Darsilameh,310207,268
+Brikama,Foni Kansala,Kanilai,Dumbuto,310208,114
+Brikama,Foni Kansala,Kanilai,Funtang,310209,126
+Brikama,Foni Kansala,Kanilai,Gikes Dandon,310210,178
+Brikama,Foni Kansala,Kanilai,Jiramba,310211,121
+Brikama,Foni Kansala,Kanilai,Jomo Kunda,310212,181
+Brikama,Foni Kansala,Kanilai,Jonyerr,310213,157
+Brikama,Foni Kansala,Kanilai,Kanfenda Badjie Kunda,310215,86
+Brikama,Foni Kansala,Kanilai,Kanfenda Check Point,310214,637
+Brikama,Foni Kansala,Kanilai,Kanfenda Kambuja,310230,122
+Brikama,Foni Kansala,Kanilai,Kanilai,310216,1687
+Brikama,Foni Kansala,Kanilai,Kanling Georgetown,310131,95
+Brikama,Foni Kansala,Kanilai,Kanling Jarjur Kunda,310217,46
+Brikama,Foni Kansala,Kanilai,Kantimba,310228,78
+Brikama,Foni Kansala,Kanilai,Karam,310218,42
+Brikama,Foni Kansala,Kanilai,Karrol,310219,104
+Brikama,Foni Kansala,Kanilai,KunjenJeng,310220,26
+Brikama,Foni Kansala,Kanilai,Mandina,310221,516
+Brikama,Foni Kansala,Kanilai,Monom,310222,83
+Brikama,Foni Kansala,Kanilai,Nyadinding,310223,17
+Brikama,Foni Kansala,Kanilai,Sangajorr,310225,753
+Brikama,Foni Kansala,Kanilai,Sangajorr Mandunya,310224,6
+Brikama,Foni Kansala,Kanilai,Sankurang,310226,53
+Brikama,Foni Kansala,Kanilai,Tintiba,310227,39
+Brikama,Foni Bondali,Bantanjang,Bajiran,311101,112
+Brikama,Foni Bondali,Bantanjang,Bantanjang,311102,139
+Brikama,Foni Bondali,Bantanjang,Bisari Madi,311103,210
+Brikama,Foni Bondali,Bantanjang,Bondali Jola,311104,433
+Brikama,Foni Bondali,Bantanjang,Bondali Santamba,311105,196
+Brikama,Foni Bondali,Bantanjang,Bondali Tenda,311106,161
+Brikama,Foni Bondali,Bantanjang,Buramba,311107,164
+Brikama,Foni Bondali,Bantanjang,Jifoni,311109,34
+Brikama,Foni Bondali,Bantanjang,Kalimou,311111,90
+Brikama,Foni Bondali,Bantanjang,Kanjibat,311112,64
+Brikama,Foni Bondali,Bantanjang,Kanlang,311110,86
+Brikama,Foni Bondali,Bantanjang,Kanwally,311116,230
+Brikama,Foni Bondali,Bantanjang,Kanwally Sinkandi,311117,37
+Brikama,Foni Bondali,Bantanjang,Kayaborr,311113,79
+Brikama,Foni Bondali,Mayork,Ala Kunda,311201,281
+Brikama,Foni Bondali,Mayork,Bisari Bajonki,311203,291
+Brikama,Foni Bondali,Mayork,Bullengart,311204,168
+Brikama,Foni Bondali,Mayork,Chabai,311222,262
+Brikama,Foni Bondali,Mayork,Fass Chabai,311206,203
+Brikama,Foni Bondali,Mayork,Fass Chamen,311205,480
+Brikama,Foni Bondali,Mayork,Jending Ba,311208,45
+Brikama,Foni Bondali,Mayork,Jending Bajonki,311209,74
+Brikama,Foni Bondali,Mayork,Kafenkeng,311210,177
+Brikama,Foni Bondali,Mayork,Kafenkeng Bambarang,311211,1155
+Brikama,Foni Bondali,Mayork,Kanjending,311212,317
+Brikama,Foni Bondali,Mayork,Kanjiramba,311213,93
+Brikama,Foni Bondali,Mayork,Kankurang,311214,498
+Brikama,Foni Bondali,Mayork,Mayork,311217,926
+Brikama,Foni Bondali,Mayork,Nyaffui _Ba,311218,143
+Brikama,Foni Bondali,Mayork,Nyaffuinding,311223,179
+Brikama,Foni Bondali,Mayork,Nyantempo,311220,527
+Brikama,Foni Bondali,Mayork,Sare Musa,311219,128
+Brikama,Foni Bondali,Mayork,Taiba Nyassen,311207,800
+Brikama,Foni Jarrol,Sintet,Brumen,312101,783
+Brikama,Foni Jarrol,Sintet,Busongai,312102,150
+Brikama,Foni Jarrol,Sintet,Jarrol,312103,638
+Brikama,Foni Jarrol,Sintet,Kabombu,312105,174
+Brikama,Foni Jarrol,Sintet,Kalagi,312106,207
+Brikama,Foni Jarrol,Sintet,Kanmanka,312104,120
+Brikama,Foni Jarrol,Sintet,Nioro Jarrol,312110,109
+Brikama,Foni Jarrol,Sintet,Sintet Bako,312107,690
+Brikama,Foni Jarrol,Sintet,Sintet Fula Kunda,312108,397
+Brikama,Foni Jarrol,Sintet,Tamba Kunda,309122,2
+Brikama,Foni Jarrol,Sintet,Tamba Kunda,312109,403
+Brikama,Foni Jarrol,Wassadou,Arankon Kunda,312201,187
+Brikama,Foni Jarrol,Wassadou,Arankon Kunda Jundang,312214,39
+Brikama,Foni Jarrol,Wassadou,Kambeleiba,312205,40
+Brikama,Foni Jarrol,Wassadou,Kampassa,312206,608
+Brikama,Foni Jarrol,Wassadou,Kang Mamadu,312208,203
+Brikama,Foni Jarrol,Wassadou,Kang Sambou,312209,90
+Brikama,Foni Jarrol,Wassadou,Njonkel,312210,259
+Brikama,Foni Jarrol,Wassadou,Njorem Bondi Kunda,312202,40
+Brikama,Foni Jarrol,Wassadou,Njorem Drammeh Kunda,312203,186
+Brikama,Foni Jarrol,Wassadou,Njorem Sanneh Kunda,312204,124
+Brikama,Foni Jarrol,Wassadou,Santan Koto,312212,136
+Brikama,Foni Jarrol,Wassadou,Wassadu,312213,760
+Brikama,Foni Jarrol,Wassadou,Wassadu Ahallulai,312215,376
+Brikama,,Jabang,Yundum Koto/Old Yundum,302317,1
+Mansakonko,Kiang West,Kiang Banta,Bajana,401101,418
+Mansakonko,Kiang West,Kiang Banta,Bateling,401102,335
+Mansakonko,Kiang West,Kiang Banta,Brikamanding,401103,140
+Mansakonko,Kiang West,Kiang Banta,Dumbuto,401104,638
+Mansakonko,Kiang West,Kiang Banta,Jamaru,401106,213
+Mansakonko,Kiang West,Kiang Banta,Jataba,401107,733
+Mansakonko,Kiang West,Kiang Banta,Jifarong,401108,1148
+Mansakonko,Kiang West,Kiang Banta,KWNP,401109,1
+Mansakonko,Kiang West,Kiang Banta,Kuli Kunda,401114,897
+Mansakonko,Kiang West,Kiang Banta,Nioro Jataba,401111,1251
+Mansakonko,Kiang West,Kiang Banta,Sandeng,401112,265
+Mansakonko,Kiang West,Kiang Banta,Sankandi,401113,621
+Mansakonko,Kiang West,Kiang Banta,Wudeba,401115,321
+Mansakonko,Kiang West,Kiang Julafarr,Bankuling,401201,11
+Mansakonko,Kiang West,Kiang Julafarr,Bantasu,401202,15
+Mansakonko,Kiang West,Kiang Julafarr,Burong,401203,397
+Mansakonko,Kiang West,Kiang Julafarr,Gissay,401204,139
+Mansakonko,Kiang West,Kiang Julafarr,Jali,401205,928
+Mansakonko,Kiang West,Kiang Julafarr,Janneh Kunda,401207,567
+Mansakonko,Kiang West,Kiang Julafarr,Joli,401208,275
+Mansakonko,Kiang West,Kiang Julafarr,Jula Kunda,401209,193
+Mansakonko,Kiang West,Kiang Julafarr,Kantong Kunda,401210,396
+Mansakonko,Kiang West,Kiang Julafarr,Karantaba,401211,909
+Mansakonko,Kiang West,Kiang Julafarr,Kemoto,401212,250
+Mansakonko,Kiang West,Kiang Julafarr,Keneba,401213,1885
+Mansakonko,Kiang West,Kiang Julafarr,Keno Koto,401214,31
+Mansakonko,Kiang West,Kiang Julafarr,Kuyang Bajonki,401216,105
+Mansakonko,Kiang West,Kiang Julafarr,Manarr,401225,53
+Mansakonko,Kiang West,Kiang Julafarr,Mandina,310221,15
+Mansakonko,Kiang West,Kiang Julafarr,Mandina,401217,130
+Mansakonko,Kiang West,Kiang Julafarr,Manduar,305224,22
+Mansakonko,Kiang West,Kiang Julafarr,Manduar,401218,519
+Mansakonko,Kiang West,Kiang Julafarr,Missira Tenda,401219,68
+Mansakonko,Kiang West,Kiang Julafarr,Nineteen,401220,27
+Mansakonko,Kiang West,Kiang Julafarr,Santamba,401222,18
+Mansakonko,Kiang West,Kiang Julafarr,Taborang Koto,401223,145
+Mansakonko,Kiang West,Kiang Julafarr,Tankularr,401224,466
+Mansakonko,Kiang Central,Jirroff,Bambako,402113,153
+Mansakonko,Kiang Central,Jirroff,Jatta Kunda,402101,252
+Mansakonko,Kiang Central,Jirroff,Jirroff,402102,218
+Mansakonko,Kiang Central,Jirroff,Kundong Fula Kunda,402103,135
+Mansakonko,Kiang Central,Jirroff,Kundong Mariya,402104,22
+Mansakonko,Kiang Central,Jirroff,Kundong Numu Kunda,402105,173
+Mansakonko,Kiang Central,Jirroff,Mandina,402106,185
+Mansakonko,Kiang Central,Jirroff,Nema,402112,1002
+Mansakonko,Kiang Central,Jirroff,Nemakuta,402107,227
+Mansakonko,Kiang Central,Jirroff,Sare Mamudou,402111,99
+Mansakonko,Kiang Central,Jirroff,Sare Ndala,402108,46
+Mansakonko,Kiang Central,Jirroff,Sare Sarjo,402109,277
+Mansakonko,Kiang Central,Jirroff,Sarr Kunda,402114,105
+Mansakonko,Kiang Central,Jirroff,Sibeto,402110,801
+Mansakonko,Kiang Central,Kwinella,Bumarr,402202,263
+Mansakonko,Kiang Central,Kwinella,Kwinella Nia Kunda,402203,1427
+Mansakonko,Kiang Central,Kwinella,Kwinella Sansankono,402204,614
+Mansakonko,Kiang Central,Kwinella,Madina Angalleh,402205,881
+Mansakonko,Kiang Central,Kwinella,Nioro Angalleh,402207,117
+Mansakonko,Kiang Central,Kwinella,Tabanani,402210,176
+Mansakonko,Kiang Central,Kwinella,Tendaba,402211,352
+Mansakonko,Kiang Central,Kwinella,Wellingara,302102,38
+Mansakonko,Kiang Central,Kwinella,Wellingara,402213,215
+Mansakonko,Kiang Central,Kwinella,Wurokang,402214,587
+Mansakonko,Kiang East,Kaiaf,Genier,403101,569
+Mansakonko,Kiang East,Kaiaf,Kaiaf,403102,1657
+Mansakonko,Kiang East,Kaiaf,Madina Ceesay Kunda,403107,110
+Mansakonko,Kiang East,Kaiaf,Madina Kaiaf,403103,2068
+Mansakonko,Kiang East,Kaiaf,Munku Talla,403104,164
+Mansakonko,Kiang East,Kaiaf,Njolfen,403106,732
+Mansakonko,Kiang East,Kaiaf,Sare Samba,403105,588
+Mansakonko,Kiang East,Massembeh,Jallow Kunda,403201,57
+Mansakonko,Kiang East,Massembeh,Jasobo Sanneh,403202,265
+Mansakonko,Kiang East,Massembeh,Jomarr,403203,106
+Mansakonko,Kiang East,Massembeh,Kolior Nyamala,403204,211
+Mansakonko,Kiang East,Massembeh,Kolior Nyamala Manokang,403214,166
+Mansakonko,Kiang East,Massembeh,Kolior Sula,403205,61
+Mansakonko,Kiang East,Massembeh,Massembeh,403206,934
+Mansakonko,Kiang East,Massembeh,Sare Babou,403209,53
+Mansakonko,Kiang East,Massembeh,Sare Musa,403210,78
+Mansakonko,Kiang East,Massembeh,Sare Pateh,403211,111
+Mansakonko,Kiang East,Massembeh,Toranka Bantang,403212,263
+Mansakonko,Kiang East,Massembeh,Yerro Fula,403213,103
+Mansakonko,Jarra West,Gikoko,Darusalam,404102,434
+Mansakonko,Jarra West,Gikoko,Diganteh,404103,960
+Mansakonko,Jarra West,Gikoko,Fonkoi Kunda,404119,335
+Mansakonko,Jarra West,Gikoko,Giffine,404106,374
+Mansakonko,Jarra West,Gikoko,Jenoi,404105,1155
+Mansakonko,Jarra West,Gikoko,Kohel,404107,127
+Mansakonko,Jarra West,Gikoko,Madina Fonkoi,404120,273
+Mansakonko,Jarra West,Gikoko,Mansakonko,404108,248
+Mansakonko,Jarra West,Gikoko,Misira,404110,1064
+Mansakonko,Jarra West,Gikoko,Pakalinding,404111,2673
+Mansakonko,Jarra West,Gikoko,Sankuwia,404204,27
+Mansakonko,Jarra West,Gikoko,Sare Biran,404121,151
+Mansakonko,Jarra West,Gikoko,Sare Saidy,404112,154
+Mansakonko,Jarra West,Gikoko,Si Kunda,404114,900
+Mansakonko,Jarra West,Gikoko,Soma,404115,16727
+Mansakonko,Jarra West,Gikoko,Sumbundu,404116,286
+Mansakonko,Jarra West,Gikoko,Toniataba,404117,1061
+Mansakonko,Jarra West,Jaduma,Jabisa,404205,293
+Mansakonko,Jarra West,Jaduma,Jabisa Crossma,404206,496
+Mansakonko,Jarra West,Jaduma,Kani Kunda,404203,983
+Mansakonko,Jarra West,Jaduma,Karantaba,404202,1441
+Mansakonko,Jarra West,Jaduma,Sankuwia,404204,1713
+Mansakonko,Jarra West,Jaduma,Seno Bajonki,404201,877
+Mansakonko,Jarra Central,Buiba,Buiba Jallow Kunda,405101,192
+Mansakonko,Jarra Central,Buiba,Buiba Mandinka,405102,487
+Mansakonko,Jarra Central,Buiba,Buiba Musa Njadoh,405103,172
+Mansakonko,Jarra Central,Buiba,Diganteh Demba Gullo,405104,401
+Mansakonko,Jarra Central,Buiba,Foroyaa Fula,405105,189
+Mansakonko,Jarra Central,Buiba,Japineh Marikoto,405106,1436
+Mansakonko,Jarra Central,Buiba,Japineh Tembeto,405107,639
+Mansakonko,Jarra Central,Buiba,Madina Foroyaa,405113,266
+Mansakonko,Jarra Central,Buiba,Madina Fula Kunda,405108,382
+Mansakonko,Jarra Central,Buiba,Sani Kolly,405109,211
+Mansakonko,Jarra Central,Buiba,Sare Bully,405110,43
+Mansakonko,Jarra Central,Buiba,Sare Saidy,405111,105
+Mansakonko,Jarra Central,Buiba,Sasita Toranka,405112,459
+Mansakonko,Jarra Central,Jalembereh,Badumeh Koto,405201,347
+Mansakonko,Jarra Central,Jalembereh,Badumeh Kuta,405202,363
+Mansakonko,Jarra Central,Jalembereh,Forlolo,405203,328
+Mansakonko,Jarra Central,Jalembereh,Hamdalai Sare Omar,405204,130
+Mansakonko,Jarra Central,Jalembereh,Jalangbereh Crossma,405206,2413
+Mansakonko,Jarra Central,Jalembereh,Jamaya,405207,243
+Mansakonko,Jarra Central,Jalembereh,Jobe Kunda,405208,171
+Mansakonko,Jarra Central,Jalembereh,Kanuma,405209,70
+Mansakonko,Jarra Central,Jalembereh,Minna,405210,319
+Mansakonko,Jarra Central,Jalembereh,Nema,405211,20
+Mansakonko,Jarra Central,Jalembereh,Sitahuma,405212,298
+Mansakonko,Jarra Central,Jalembereh,Suluko,405213,57
+Mansakonko,Jarra East,Bureng,Bantan Nyima,406101,135
+Mansakonko,Jarra East,Bureng,Budyel,406102,441
+Mansakonko,Jarra East,Bureng,Bureng,406103,1203
+Mansakonko,Jarra East,Bureng,Dabatu,406104,158
+Mansakonko,Jarra East,Bureng,Demati Kunda,406107,329
+Mansakonko,Jarra East,Bureng,Dingirai,406108,241
+Mansakonko,Jarra East,Bureng,Dongoro Nding,406110,127
+Mansakonko,Jarra East,Bureng,Dongoroba,406109,1450
+Mansakonko,Jarra East,Bureng,Felleng Koto,406111,164
+Mansakonko,Jarra East,Bureng,Hamdali,406112,31
+Mansakonko,Jarra East,Bureng,Jababa,406121,142
+Mansakonko,Jarra East,Bureng,Jassong,406113,398
+Mansakonko,Jarra East,Bureng,Nyawurulung,406114,243
+Mansakonko,Jarra East,Bureng,Sibinding,406115,146
+Mansakonko,Jarra East,Bureng,Sibinding Crossma,406116,196
+Mansakonko,Jarra East,Bureng,Sinchu Njenkuntu,406118,111
+Mansakonko,Jarra East,Bureng,Sutukung,406119,1676
+Mansakonko,Jarra East,Bureng,Sutukung Jallow Kunda,406105,117
+Mansakonko,Jarra East,Bureng,Wellingara-Ba,406120,2939
+Mansakonko,Jarra East,Pakaliba,Barrow Kunda,310201,75
+Mansakonko,Jarra East,Pakaliba,Barrow Kunda,406201,3351
+Mansakonko,Jarra East,Pakaliba,Dabaly,406202,43
+Mansakonko,Jarra East,Pakaliba,Darsilami,406211,446
+Mansakonko,Jarra East,Pakaliba,Darsilami Crossma,406212,160
+Mansakonko,Jarra East,Pakaliba,Madina,406204,562
+Mansakonko,Jarra East,Pakaliba,Missira Cham,406210,73
+Mansakonko,Jarra East,Pakaliba,N'joba Kunda,406206,139
+Mansakonko,Jarra East,Pakaliba,Nema Kuta,406205,125
+Mansakonko,Jarra East,Pakaliba,Pakaliba,406207,1013
+Mansakonko,Jarra East,Pakaliba,Sukuta,406208,397
+Mansakonko,Jarra East,Pakaliba,Wellingara,406209,109
+Mansakonko,,Buiba,Buiba Musa Njadoh,405103,9
+Mansakonko,,Buiba,Japineh Marikoto,405106,11
+Mansakonko,,Buiba,Japineh Tembeto,405107,1
+Mansakonko,,Buiba,Madina Foroyaa,405113,6
+Mansakonko,,Buiba,Sani Kolly,405109,4
+Mansakonko,,Jalembereh,Hamdalai Sare Omar,405204,46
+Mansakonko,,Jalembereh,Suluko,405213,3
+Kerewan,Lower Niumi,Essau,Amdalai,501111,2246
+Kerewan,Lower Niumi,Essau,Bakindick Koto,501115,310
+Kerewan,Lower Niumi,Essau,Barra,501129,4901
+Kerewan,Lower Niumi,Essau,Berending,306204,6
+Kerewan,Lower Niumi,Essau,Berending,501122,2137
+Kerewan,Lower Niumi,Essau,Buniadu,501121,1352
+Kerewan,Lower Niumi,Essau,Busura/Kunkujang,501108,244
+Kerewan,Lower Niumi,Essau,Cheesay,501135,274
+Kerewan,Lower Niumi,Essau,Essau,501130,11906
+Kerewan,Lower Niumi,Essau,Fass Njaga Choi,501110,4095
+Kerewan,Lower Niumi,Essau,Jamagen,501116,710
+Kerewan,Lower Niumi,Essau,Jamwelly/Kerr Alieu,501128,122
+Kerewan,Lower Niumi,Essau,Jinack Kajata,501117,537
+Kerewan,Lower Niumi,Essau,Jinack Niji,501118,744
+Kerewan,Lower Niumi,Essau,Kanuma,309215,1
+Kerewan,Lower Niumi,Essau,Kanuma,501127,2147
+Kerewan,Lower Niumi,Essau,Kerr Chandeh,501112,357
+Kerewan,Lower Niumi,Essau,Kerr Chandeh Njago,501137,19
+Kerewan,Lower Niumi,Essau,Kerr Gallow,501124,490
+Kerewan,Lower Niumi,Essau,Kerr Jatta,501109,1068
+Kerewan,Lower Niumi,Essau,Kerr Sanyang,501113,481
+Kerewan,Lower Niumi,Essau,Kerr Wally (Harryala),501136,3
+Kerewan,Lower Niumi,Essau,Kerr Wally (Jackley),501134,746
+Kerewan,Lower Niumi,Essau,Kerr Yoro (Sinchu Yero),501102,83
+Kerewan,Lower Niumi,Essau,Lewna,501106,499
+Kerewan,Lower Niumi,Essau,Mayamba,501125,944
+Kerewan,Lower Niumi,Essau,Mbankam,501103,722
+Kerewan,Lower Niumi,Essau,Mbollet Ba,501101,2074
+Kerewan,Lower Niumi,Essau,Mbullum,501132,438
+Kerewan,Lower Niumi,Essau,Medina Kanuma,501126,1724
+Kerewan,Lower Niumi,Essau,Medina Sotokoi,501107,513
+Kerewan,Lower Niumi,Essau,Mendy Kunda,501123,95
+Kerewan,Lower Niumi,Essau,Missiranding,501114,591
+Kerewan,Lower Niumi,Essau,Ndofan,501133,884
+Kerewan,Lower Niumi,Essau,Njongon,501104,814
+Kerewan,Lower Niumi,Essau,Sam M'Bollet,501119,726
+Kerewan,Lower Niumi,Essau,Sami,501120,1940
+Kerewan,Lower Niumi,Essau,Wellingara Lewna,501105,415
+Kerewan,Lower Niumi,Medina Sering,Bakindick Mandinka,501201,1135
+Kerewan,Lower Niumi,Medina Sering,Bakindick Tabokoto,501202,511
+Kerewan,Lower Niumi,Medina Sering,Bakindick Wollof,501203,385
+Kerewan,Lower Niumi,Medina Sering,Bangally,501204,41
+Kerewan,Lower Niumi,Medina Sering,Chamen,501205,1301
+Kerewan,Lower Niumi,Medina Sering,Fafanding,501206,308
+Kerewan,Lower Niumi,Medina Sering,Jamagen,501207,590
+Kerewan,Lower Niumi,Medina Sering,Kerr Bahoum,501209,352
+Kerewan,Lower Niumi,Medina Sering,Kerr Mbuguma,501210,368
+Kerewan,Lower Niumi,Medina Sering,Kerr Omar Jawara,501211,523
+Kerewan,Lower Niumi,Medina Sering,Kerr Pateh,501208,806
+Kerewan,Lower Niumi,Medina Sering,Kerr Tubaye,501212,109
+Kerewan,Lower Niumi,Medina Sering,Kolley Kunda,501233,135
+Kerewan,Lower Niumi,Medina Sering,Lang Sarr,501213,206
+Kerewan,Lower Niumi,Medina Sering,Lowen,501214,473
+Kerewan,Lower Niumi,Medina Sering,Macca Bala Manneh,501215,869
+Kerewan,Lower Niumi,Medina Sering,Malick Sarr,501216,490
+Kerewan,Lower Niumi,Medina Sering,Mbahen,501218,446
+Kerewan,Lower Niumi,Medina Sering,Medina Daru,501219,1594
+Kerewan,Lower Niumi,Medina Sering,Medina Manneh,501217,322
+Kerewan,Lower Niumi,Medina Sering,Medina Serigne Mass,501220,2311
+Kerewan,Lower Niumi,Medina Sering,Ndugu Charen,501222,777
+Kerewan,Lower Niumi,Medina Sering,Ndungu Kebbeh,501223,4895
+Kerewan,Lower Niumi,Medina Sering,Njoufain,501232,344
+Kerewan,Lower Niumi,Medina Sering,Saderr Jobe,501224,276
+Kerewan,Lower Niumi,Medina Sering,Samba Kala,501225,1643
+Kerewan,Lower Niumi,Medina Sering,Samba Njabeh,501226,747
+Kerewan,Lower Niumi,Medina Sering,Samba Yassin,501227,537
+Kerewan,Lower Niumi,Medina Sering,Sare Bigi,501228,305
+Kerewan,Lower Niumi,Medina Sering,Sare Yerro,501229,215
+Kerewan,Lower Niumi,Medina Sering,Touba Angalle,501230,1334
+Kerewan,Lower Niumi,Medina Sering,Yallal,501231,11
+Kerewan,Upper Niumi,Pakau,Aljamdou,502101,1067
+Kerewan,Upper Niumi,Pakau,Bakalarr,502102,904
+Kerewan,Upper Niumi,Pakau,Fass Omar Chaho,502105,4707
+Kerewan,Upper Niumi,Pakau,Kerr Dekodeh,502108,349
+Kerewan,Upper Niumi,Pakau,Kerr Juma Hawa,502107,78
+Kerewan,Upper Niumi,Pakau,Kerr Marry Dobo,502109,190
+Kerewan,Upper Niumi,Pakau,Kerr Sukum,502110,142
+Kerewan,Upper Niumi,Pakau,Lamen,502111,867
+Kerewan,Upper Niumi,Pakau,Ma Demba Kunda,502112,661
+Kerewan,Upper Niumi,Pakau,Mahmuda,502113,282
+Kerewan,Upper Niumi,Pakau,Mbantang Killing,502103,766
+Kerewan,Upper Niumi,Pakau,Medina Sedia,502114,1270
+Kerewan,Upper Niumi,Pakau,Nema Kunku,302104,30
+Kerewan,Upper Niumi,Pakau,Nema Kunku,502115,1178
+Kerewan,Upper Niumi,Pakau,Pakala Demba Kholleh,502104,705
+Kerewan,Upper Niumi,Pakau,Pakau Njogu,502116,1822
+Kerewan,Upper Niumi,Pakau,Pakau Saloum,502117,560
+Kerewan,Upper Niumi,Pakau,Sitanunku,502118,1022
+Kerewan,Upper Niumi,Pakau,Tuba Kolong,502119,1369
+Kerewan,Upper Niumi,Prince,Albreda,502201,1562
+Kerewan,Upper Niumi,Prince,Bafuloto,304101,19
+Kerewan,Upper Niumi,Prince,Bafuloto,502232,220
+Kerewan,Upper Niumi,Prince,Chamen Sosseh,502202,492
+Kerewan,Upper Niumi,Prince,Chilla,502203,2421
+Kerewan,Upper Niumi,Prince,Daru Abdoulie,502204,122
+Kerewan,Upper Niumi,Prince,Jufureh,502205,587
+Kerewan,Upper Niumi,Prince,Jurunku,502206,588
+Kerewan,Upper Niumi,Prince,Kaba Koto,502207,834
+Kerewan,Upper Niumi,Prince,Kassewa,502208,147
+Kerewan,Upper Niumi,Prince,Kerr Alagie Yerro,502209,702
+Kerewan,Upper Niumi,Prince,Kerr Biran Kani,502210,1183
+Kerewan,Upper Niumi,Prince,Kerr Chebo Ceesay,502211,609
+Kerewan,Upper Niumi,Prince,Kerr Chebou Jallow,502233,615
+Kerewan,Upper Niumi,Prince,Kerr Cherno Baba,502212,957
+Kerewan,Upper Niumi,Prince,Kerr Chikam,502213,228
+Kerewan,Upper Niumi,Prince,Kerr Gumbo,502214,139
+Kerewan,Upper Niumi,Prince,Kerr Mama,502216,625
+Kerewan,Upper Niumi,Prince,Kerr Sait Cham,502217,172
+Kerewan,Upper Niumi,Prince,Kerr Sidik Daru Salam,502218,520
+Kerewan,Upper Niumi,Prince,Malick Nana,502219,597
+Kerewan,Upper Niumi,Prince,Medina Sanghako,502220,51
+Kerewan,Upper Niumi,Prince,Nyofelleh,502221,357
+Kerewan,Upper Niumi,Prince,Passy Chally,502222,709
+Kerewan,Upper Niumi,Prince,Passy Mamut Jaw,502223,261
+Kerewan,Upper Niumi,Prince,Prince,502224,617
+Kerewan,Upper Niumi,Prince,Sami Koto,502225,373
+Kerewan,Upper Niumi,Prince,Sami Kuta,502226,526
+Kerewan,Upper Niumi,Prince,Sami Tenda,502227,256
+Kerewan,Upper Niumi,Prince,Sare Alpha,502228,652
+Kerewan,Upper Niumi,Prince,Sare Birom,502229,90
+Kerewan,Upper Niumi,Prince,Sika,502230,906
+Kerewan,Upper Niumi,Prince,Sotokoi,502231,405
+Kerewan,Jokadu,Darsilami,Amdalai,503101,12
+Kerewan,Jokadu,Darsilami,Bakang,503102,493
+Kerewan,Jokadu,Darsilami,Bali Hali Hawa/Kerr Ali Hawa,503103,512
+Kerewan,Jokadu,Darsilami,Bali Mandinka,503104,792
+Kerewan,Jokadu,Darsilami,Barianding,503105,217
+Kerewan,Jokadu,Darsilami,Chesey Majaw,503106,1369
+Kerewan,Jokadu,Darsilami,Conteh,503107,13
+Kerewan,Jokadu,Darsilami,Darou Fodeba,503109,460
+Kerewan,Jokadu,Darsilami,Darsilameh,503110,1076
+Kerewan,Jokadu,Darsilami,Daru Lowen,503108,268
+Kerewan,Jokadu,Darsilami,Karantaba,503117,274
+Kerewan,Jokadu,Darsilami,Kerr Alagie Malick,503111,986
+Kerewan,Jokadu,Darsilami,Kerr Gumbo,503112,624
+Kerewan,Jokadu,Darsilami,Medina Talen,503113,425
+Kerewan,Jokadu,Darsilami,Munyagen,503114,1967
+Kerewan,Jokadu,Darsilami,N'Darameh Joka,503115,1176
+Kerewan,Jokadu,Darsilami,Tambana,503116,980
+Kerewan,Jokadu,Kerr Jarga,Bantanding Tukulorr,503202,449
+Kerewan,Jokadu,Kerr Jarga,Bantanding Wollof,503203,863
+Kerewan,Jokadu,Kerr Jarga,Daru Matarr Sarr,503204,196
+Kerewan,Jokadu,Kerr Jarga,Gissay,503207,897
+Kerewan,Jokadu,Kerr Jarga,Jamagen,503205,352
+Kerewan,Jokadu,Kerr Jarga,Juma Sira,503206,158
+Kerewan,Jokadu,Kerr Jarga,Kerr Gedo,503208,405
+Kerewan,Jokadu,Kerr Jarga,Kerr Jane,503209,487
+Kerewan,Jokadu,Kerr Jarga,Kerr Jarga Jobe,503210,1223
+Kerewan,Jokadu,Kerr Jarga,Kerr Ngorr,503211,1143
+Kerewan,Jokadu,Kerr Jarga,Kerr Ngoyan,503212,470
+Kerewan,Jokadu,Kerr Jarga,Kerr Omar Saine,503223,938
+Kerewan,Jokadu,Kerr Jarga,Kerr Selleh,503214,221
+Kerewan,Jokadu,Kerr Jarga,Kerr Wally,503215,192
+Kerewan,Jokadu,Kerr Jarga,Kuntaya,503216,1913
+Kerewan,Jokadu,Kerr Jarga,Mecca Omar Manneh,503213,443
+Kerewan,Jokadu,Kerr Jarga,Medina Njama,503217,259
+Kerewan,Jokadu,Kerr Jarga,Memmeh,503218,874
+Kerewan,Jokadu,Kerr Jarga,Missira Alagie Karu,503201,889
+Kerewan,Jokadu,Kerr Jarga,Sam Njoben,503219,221
+Kerewan,Jokadu,Kerr Jarga,Sare Pateh Jawo,503220,71
+Kerewan,Jokadu,Kerr Jarga,Toro Alasan,503221,740
+Kerewan,Jokadu,Kerr Jarga,Wellingara Njugareh,503222,513
+Kerewan,Lower Badibu,Saaba,Banni,504202,1171
+Kerewan,Lower Badibu,Saaba,Choken Fula,504203,332
+Kerewan,Lower Badibu,Saaba,Choken Missira,504204,97
+Kerewan,Lower Badibu,Saaba,Foday Biran,504205,132
+Kerewan,Lower Badibu,Saaba,Gunjur,504206,1308
+Kerewan,Lower Badibu,Saaba,Kinteh Kunda Jannehya,504207,896
+Kerewan,Lower Badibu,Saaba,Mbamurr Kunda,504208,296
+Kerewan,Lower Badibu,Saaba,Pallen,504201,568
+Kerewan,Lower Badibu,Saaba,Saaba,504209,1974
+Kerewan,Lower Badibu,Saaba,Tallen Fula,504210,453
+Kerewan,Lower Badibu,Saaba,Tallen Wollof,504211,98
+Kerewan,Lower Badibu,Saaba,Yallal Bah,504212,498
+Kerewan,Lower Badibu,Kerewan,Daru Salam,504101,279
+Kerewan,Lower Badibu,Kerewan,Kerewan,303103,88
+Kerewan,Lower Badibu,Kerewan,Kerewan,504102,4011
+Kerewan,Lower Badibu,Kerewan,Kerr Ardo,504103,1101
+Kerewan,Lower Badibu,Kerewan,Kerr Banno,504104,267
+Kerewan,Lower Badibu,Kerewan,Njawara,504105,857
+Kerewan,Lower Badibu,Kerewan,Njie Kunda,504106,132
+Kerewan,Lower Badibu,Kerewan,Panneh Ba,504107,178
+Kerewan,Lower Badibu,Kerewan,Samba Musa,504108,80
+Kerewan,Lower Badibu,Kerewan,Suwareh Kunda,504109,1107
+Kerewan,Lower Badibu,Kerewan,Taiba Jebel Satou,504110,56
+Kerewan,Lower Badibu,Kerewan,Tawakaltu,504111,226
+Kerewan,Lower Badibu,Kerewan,Toro Bah,504112,846
+Kerewan,Lower Badibu,Kerewan,Toro Tayam,504113,444
+Kerewan,Central Badibu,Njaba Kunda,Biram Penda Maida,505110,219
+Kerewan,Central Badibu,Njaba Kunda,Brikama,505102,66
+Kerewan,Central Badibu,Njaba Kunda,Busura,505103,176
+Kerewan,Central Badibu,Njaba Kunda,Chamen,505104,186
+Kerewan,Central Badibu,Njaba Kunda,Karantaba,505204,118
+Kerewan,Central Badibu,Njaba Kunda,Kerr Katim Fula,505105,252
+Kerewan,Central Badibu,Njaba Kunda,Kerr Katim Wollof,505106,384
+Kerewan,Central Badibu,Njaba Kunda,Kinteh Kunda,505107,442
+Kerewan,Central Badibu,Njaba Kunda,Kuli Kunda Fula,505108,90
+Kerewan,Central Badibu,Njaba Kunda,Kuli Kunda Wollof,505109,51
+Kerewan,Central Badibu,Njaba Kunda,Maida Moddy,505111,137
+Kerewan,Central Badibu,Njaba Kunda,Marong Kunda,505112,392
+Kerewan,Central Badibu,Njaba Kunda,Minteh Kunda,505113,567
+Kerewan,Central Badibu,Njaba Kunda,Nawleru,505114,610
+Kerewan,Central Badibu,Njaba Kunda,Nduren,505115,190
+Kerewan,Central Badibu,Njaba Kunda,Nghatanorr Fula,505118,263
+Kerewan,Central Badibu,Njaba Kunda,Nghatanorr Wollof,505119,157
+Kerewan,Central Badibu,Njaba Kunda,Njaba Kunda,505116,2335
+Kerewan,Central Badibu,Njaba Kunda,Njonen,505117,557
+Kerewan,Central Badibu,Njaba Kunda,Sare Biram Kardo,505120,148
+Kerewan,Central Badibu,Njaba Kunda,Sare Birom kunda,505101,68
+Kerewan,Central Badibu,Njaba Kunda,Sare Ello,505121,48
+Kerewan,Central Badibu,Njaba Kunda,Sare Mari,505122,153
+Kerewan,Central Badibu,Njaba Kunda,Sare Samba Sowe,505123,209
+Kerewan,Central Badibu,Njaba Kunda,Sinchu Demba,505126,59
+Kerewan,Central Badibu,Njaba Kunda,Wayaworr,505124,397
+Kerewan,Central Badibu,Njaba Kunda,Wellingara,505125,217
+Kerewan,Central Badibu,Sallikene,Daru Rilwan,505201,2738
+Kerewan,Central Badibu,Sallikene,Dobo,505202,1023
+Kerewan,Central Badibu,Sallikene,Jammeh Kunda,505203,278
+Kerewan,Central Badibu,Sallikene,Kerr Pateh Koreh,505205,1866
+Kerewan,Central Badibu,Sallikene,Mandory,505206,841
+Kerewan,Central Badibu,Sallikene,Sallikenni,505207,2818
+Kerewan,Central Badibu,Sallikene,Sheikh Taal,505208,306
+Kerewan,Illiasa,No Kunda,Birom Gido,506102,113
+Kerewan,Illiasa,No Kunda,Birong Kunda,506103,106
+Kerewan,Illiasa,No Kunda,Buranya,506104,322
+Kerewan,Illiasa,No Kunda,Chamaya Wollof,506105,252
+Kerewan,Illiasa,No Kunda,Cheedy Kunda Lawbeh,506107,40
+Kerewan,Illiasa,No Kunda,Cheedy Kunda Wollof,506106,98
+Kerewan,Illiasa,No Kunda,Dai Fula,506108,23
+Kerewan,Illiasa,No Kunda,Dai Mandinka,506109,389
+Kerewan,Illiasa,No Kunda,Gumalo Ya,506111,114
+Kerewan,Illiasa,No Kunda,Jali Kunda Kekuta,506112,147
+Kerewan,Illiasa,No Kunda,Kekuta Kunda,506113,304
+Kerewan,Illiasa,No Kunda,Kerr Gallow,506114,200
+Kerewan,Illiasa,No Kunda,Konteh Kunda Nigi,506116,678
+Kerewan,Illiasa,No Kunda,Konteh Kunda Sukoto,506115,574
+Kerewan,Illiasa,No Kunda,Laliya,506121,60
+Kerewan,Illiasa,No Kunda,Njie Kundaring,506117,181
+Kerewan,Illiasa,No Kunda,No-Kunda,506118,1843
+Kerewan,Illiasa,No Kunda,Nyiribaya,506119,89
+Kerewan,Illiasa,No Kunda,Tambaringoto,506120,38
+Kerewan,Illiasa,Katchang,Alkali Kunda,506201,865
+Kerewan,Illiasa,Katchang,Illiassa,506202,1139
+Kerewan,Illiasa,Katchang,India,506203,518
+Kerewan,Illiasa,Katchang,Jajary,506204,561
+Kerewan,Illiasa,Katchang,Jali Kunda,506205,176
+Kerewan,Illiasa,Katchang,Jumangsarr Ba,506206,760
+Kerewan,Illiasa,Katchang,Jumansarr Koto,506207,136
+Kerewan,Illiasa,Katchang,Katchang,506208,1750
+Kerewan,Illiasa,Katchang,Kerr Ndongo,506209,118
+Kerewan,Illiasa,Katchang,Mbantang,506210,210
+Kerewan,Illiasa,Katchang,Talliya,506211,290
+Kerewan,Illiasa,Katchang,Yuuna,506212,354
+Kerewan,Illiasa,Farafenni,Farafenni,506301,28865
+Kerewan,Illiasa,Kubandarr,Ballingho,506401,367
+Kerewan,Illiasa,Kubandarr,Bereto,506418,258
+Kerewan,Illiasa,Kubandarr,Chamen,506425,376
+Kerewan,Illiasa,Kubandarr,Daru Barakatu,506402,236
+Kerewan,Illiasa,Kubandarr,Duta Bulu,506403,470
+Kerewan,Illiasa,Kubandarr,Gikimarr,506420,863
+Kerewan,Illiasa,Kubandarr,Jalaba,506404,200
+Kerewan,Illiasa,Kubandarr,Jeruko Fula,506405,529
+Kerewan,Illiasa,Kubandarr,Jeruko Wollof,506406,593
+Kerewan,Illiasa,Kubandarr,Jirong,506426,53
+Kerewan,Illiasa,Kubandarr,Kahen,506419,206
+Kerewan,Illiasa,Kubandarr,Kerr Ali,506421,899
+Kerewan,Illiasa,Kubandarr,Kerr Madi,506407,109
+Kerewan,Illiasa,Kubandarr,Kerr Sulay /Fass,506408,1640
+Kerewan,Illiasa,Kubandarr,Kosy Sani,506415,90
+Kerewan,Illiasa,Kubandarr,Kubandarr,506409,180
+Kerewan,Illiasa,Kubandarr,Lang Sarr,506410,224
+Kerewan,Illiasa,Kubandarr,Macca Farafenni,506411,1602
+Kerewan,Illiasa,Kubandarr,Mbayen Demba Jagne,506412,16
+Kerewan,Illiasa,Kubandarr,Medina Farafenni,506428,73
+Kerewan,Illiasa,Kubandarr,Missira,506413,70
+Kerewan,Illiasa,Kubandarr,Ndanka Ndanka,506424,8
+Kerewan,Illiasa,Kubandarr,Neteberi,506417,57
+Kerewan,Illiasa,Kubandarr,Ngeirr,506414,336
+Kerewan,Illiasa,Kubandarr,Samataba,506423,229
+Kerewan,Illiasa,Kubandarr,Wallalan,506422,419
+Kerewan,Illiasa,Kubandarr,Yalal Tankong Jala,506416,584
+Kerewan,Sabach Sanjal,Sabach,Banta-Su,507101,120
+Kerewan,Sabach Sanjal,Sabach,Bassik,507102,517
+Kerewan,Sabach Sanjal,Sabach,Darsilameh,507104,263
+Kerewan,Sabach Sanjal,Sabach,Dibba Kunda Fula,507105,482
+Kerewan,Sabach Sanjal,Sabach,Dibba Kunda Wollof,507106,1614
+Kerewan,Sabach Sanjal,Sabach,Jamali Mballow,507107,430
+Kerewan,Sabach Sanjal,Sabach,Jambaya,507108,212
+Kerewan,Sabach Sanjal,Sabach,Kataba Mandinka,507109,212
+Kerewan,Sabach Sanjal,Sabach,Kataba Tata,507111,81
+Kerewan,Sabach Sanjal,Sabach,Kerr Juka,507128,24
+Kerewan,Sabach Sanjal,Sabach,Kunjo,507112,553
+Kerewan,Sabach Sanjal,Sabach,Mbapa Bah,507115,448
+Kerewan,Sabach Sanjal,Sabach,Mbapa Mariga,507113,427
+Kerewan,Sabach Sanjal,Sabach,Mbye Dara,507114,95
+Kerewan,Sabach Sanjal,Sabach,Medina Fass,507119,629
+Kerewan,Sabach Sanjal,Sabach,Njangen,507116,117
+Kerewan,Sabach Sanjal,Sabach,Numu Kunda,507117,370
+Kerewan,Sabach Sanjal,Sabach,Nyang Kunda,507118,219
+Kerewan,Sabach Sanjal,Sabach,Sabach Njaine,507120,1566
+Kerewan,Sabach Sanjal,Sabach,Sabach Sukoto,507121,142
+Kerewan,Sabach Sanjal,Sabach,Sankalang,507122,221
+Kerewan,Sabach Sanjal,Sabach,Sare Jamjido,507123,238
+Kerewan,Sabach Sanjal,Sabach,Sukoto Fula,507124,116
+Kerewan,Sabach Sanjal,Sabach,Taiba,507125,144
+Kerewan,Sabach Sanjal,Sabach,Tamba Koto,507126,245
+Kerewan,Sabach Sanjal,Sabach,Yalal-Ba,507127,252
+Kerewan,Sabach Sanjal,Sabach,kataba Mbapu,507110,194
+Kerewan,Sabach Sanjal,Sanjal,Bambally,507201,969
+Kerewan,Sabach Sanjal,Sanjal,Checken,507203,400
+Kerewan,Sabach Sanjal,Sanjal,Daffa,507202,289
+Kerewan,Sabach Sanjal,Sanjal,Daru Rahman,507230,102
+Kerewan,Sabach Sanjal,Sanjal,Farato,507204,71
+Kerewan,Sabach Sanjal,Sanjal,Jamagen,507205,108
+Kerewan,Sabach Sanjal,Sanjal,Kani Kunda,404203,22
+Kerewan,Sabach Sanjal,Sanjal,Kani Kunda,507206,333
+Kerewan,Sabach Sanjal,Sanjal,Kani Kunda Tenda,507207,313
+Kerewan,Sabach Sanjal,Sanjal,Kerr Bamba Lowe,507208,474
+Kerewan,Sabach Sanjal,Sanjal,Kumbija,507229,825
+Kerewan,Sabach Sanjal,Sanjal,Kunjata,507209,401
+Kerewan,Sabach Sanjal,Sanjal,Loumen,507210,585
+Kerewan,Sabach Sanjal,Sanjal,Mballow Ebra,507211,475
+Kerewan,Sabach Sanjal,Sanjal,Mballow Omar,507212,1071
+Kerewan,Sabach Sanjal,Sanjal,Mballow Tega,507213,49
+Kerewan,Sabach Sanjal,Sanjal,Mbayen,507215,441
+Kerewan,Sabach Sanjal,Sanjal,Missira,507214,233
+Kerewan,Sabach Sanjal,Sanjal,Ndowen,507216,279
+Kerewan,Sabach Sanjal,Sanjal,Ngayen Sabach,507217,276
+Kerewan,Sabach Sanjal,Sanjal,Ngayen Sanjal,507218,4070
+Kerewan,Sabach Sanjal,Sanjal,Njaine,507219,554
+Kerewan,Sabach Sanjal,Sanjal,Pallen Fula,507220,572
+Kerewan,Sabach Sanjal,Sanjal,Pallen Wollof,507221,1151
+Kerewan,Sabach Sanjal,Sanjal,Palodi,507222,53
+Kerewan,Sabach Sanjal,Sanjal,Samba Soto,507223,323
+Kerewan,Sabach Sanjal,Sanjal,Sancha Medina,507224,135
+Kerewan,Sabach Sanjal,Sanjal,Sanchi Pallen,507225,456
+Kerewan,Sabach Sanjal,Sanjal,Sara Kunda,507226,1569
+Kerewan,Sabach Sanjal,Sanjal,Sinchu Njabo,507227,170
+Kerewan,Sabach Sanjal,Sanjal,Tandaito,507228,101
+Kuntaur,Lower Saloum,Ballangharr,Balanghar Benteng Ke,601104,422
+Kuntaur,Lower Saloum,Ballangharr,Balanghar Kerr Jarga,601109,321
+Kuntaur,Lower Saloum,Ballangharr,Balanghar Njoben,601101,184
+Kuntaur,Lower Saloum,Ballangharr,Balanghar Pallen Ndimba,601112,126
+Kuntaur,Lower Saloum,Ballangharr,Balangharr Sey Kunda,601113,195
+Kuntaur,Lower Saloum,Ballangharr,Balangharr Wharf Town,601102,236
+Kuntaur,Lower Saloum,Ballangharr,Ballanghar Chamen,601105,189
+Kuntaur,Lower Saloum,Ballangharr,Ballanghar Jalato Ndery,601107,242
+Kuntaur,Lower Saloum,Ballangharr,Ballanghar Kerr Jibel,601110,175
+Kuntaur,Lower Saloum,Ballangharr,Ballanghar Kerr Nderry,601103,1758
+Kuntaur,Lower Saloum,Ballangharr,Ballangharr Choyen,601106,243
+Kuntaur,Lower Saloum,Ballangharr,Ballangharr Kerr Majara,601108,108
+Kuntaur,Lower Saloum,Ballangharr,Ballangharr Njien,601121,26
+Kuntaur,Lower Saloum,Ballangharr,Ballangharr Njok,601114,214
+Kuntaur,Lower Saloum,Ballangharr,Darusalam,601115,303
+Kuntaur,Lower Saloum,Ballangharr,Hudal Lai,601122,115
+Kuntaur,Lower Saloum,Ballangharr,Kerr Lien,601116,137
+Kuntaur,Lower Saloum,Ballangharr,Medina Njian,601117,29
+Kuntaur,Lower Saloum,Ballangharr,Ngike,601111,128
+Kuntaur,Lower Saloum,Ballangharr,Sancha Lowen,601118,72
+Kuntaur,Lower Saloum,Ballangharr,Tabaworo Amat Ann,601119,49
+Kuntaur,Lower Saloum,Ballangharr,Tabaworo Nyukulum,601120,511
+Kuntaur,Lower Saloum,Kaur,Buduck,601201,113
+Kuntaur,Lower Saloum,Kaur,Chamen Baka,601202,214
+Kuntaur,Lower Saloum,Kaur,Geinge Tukulorr,601204,192
+Kuntaur,Lower Saloum,Kaur,Geinge Wollof,601203,608
+Kuntaur,Lower Saloum,Kaur,Gui Jahanka,601205,51
+Kuntaur,Lower Saloum,Kaur,Gungurr Tukulor,601207,303
+Kuntaur,Lower Saloum,Kaur,Gunjurr Wollof,601208,207
+Kuntaur,Lower Saloum,Kaur,Jahawurr Mandinka,601209,410
+Kuntaur,Lower Saloum,Kaur,Jahawurr Tukulor,601210,329
+Kuntaur,Lower Saloum,Kaur,Jamwelly,601211,402
+Kuntaur,Lower Saloum,Kaur,Jimbala Felingo-A,601214,152
+Kuntaur,Lower Saloum,Kaur,Jimbala Felingo-B,601227,323
+Kuntaur,Lower Saloum,Kaur,Jimbala Felingo-C,601226,210
+Kuntaur,Lower Saloum,Kaur,Jimbala Kerr Alhagie Sanoho,601215,264
+Kuntaur,Lower Saloum,Kaur,Jimbala Kerr Chendou,601216,396
+Kuntaur,Lower Saloum,Kaur,Jimbala Kerr Cherno,601217,99
+Kuntaur,Lower Saloum,Kaur,Jimbala Kerr Malick Njie,601219,230
+Kuntaur,Lower Saloum,Kaur,Jimbala Kerr Musa,601213,144
+Kuntaur,Lower Saloum,Kaur,Kaur Janneh Kunda,601222,1207
+Kuntaur,Lower Saloum,Kaur,Kaur Touray Kunda,601223,1791
+Kuntaur,Lower Saloum,Kaur,Kaur Wharf Town,601224,2070
+Kuntaur,Lower Saloum,Kaur,Kerr Alpha Sanna,601225,85
+Kuntaur,Lower Saloum,Kaur,Kerr Demba Gabou,601245,259
+Kuntaur,Lower Saloum,Kaur,Kerr Hamat Demba,601206,44
+Kuntaur,Lower Saloum,Kaur,Kerr Jabel,601246,146
+Kuntaur,Lower Saloum,Kaur,Kerr Kossa,601228,171
+Kuntaur,Lower Saloum,Kaur,Kerr Maila,601229,326
+Kuntaur,Lower Saloum,Kaur,Kerr Maila Secka,601240,15
+Kuntaur,Lower Saloum,Kaur,Kerr Sam Boye,601230,268
+Kuntaur,Lower Saloum,Kaur,Kerr Samba Sira,601231,316
+Kuntaur,Lower Saloum,Kaur,Manjakharr,601233,197
+Kuntaur,Lower Saloum,Kaur,Marsay,601234,120
+Kuntaur,Lower Saloum,Kaur,Mbayen Burama Bah,601235,113
+Kuntaur,Lower Saloum,Kaur,Missira Amadou Badjan,601236,72
+Kuntaur,Lower Saloum,Kaur,Nawell,601237,359
+Kuntaur,Lower Saloum,Kaur,Nema,601238,109
+Kuntaur,Lower Saloum,Kaur,Njoben Samba Narr,601239,114
+Kuntaur,Lower Saloum,Kaur,Simbara Khai,601241,547
+Kuntaur,Lower Saloum,Kaur,Simbara Manjai,601242,130
+Kuntaur,Lower Saloum,Kaur,Simbara N'Gorr,601243,137
+Kuntaur,Lower Saloum,Kaur,Simbara Tukulorr,601244,28
+Kuntaur,Lower Saloum,Kaur,jimbala Ali Hincha/Kerr Jah,601212,227
+Kuntaur,Upper Saloum,Njau,Alhagie Abdoulie Leigh,602101,155
+Kuntaur,Upper Saloum,Njau,Bangherr,602102,422
+Kuntaur,Upper Saloum,Njau,Bantanto Jawara Jallow,602103,395
+Kuntaur,Upper Saloum,Njau,Bantanto Kerr Alagie Demba,602105,143
+Kuntaur,Upper Saloum,Njau,Bantanto Kerr Ebrima Khan,602104,585
+Kuntaur,Upper Saloum,Njau,Bantanto Kerr Issab,602106,347
+Kuntaur,Upper Saloum,Njau,Bantanto Kerr Sait Sowe,602122,58
+Kuntaur,Upper Saloum,Njau,Bantanto Pakala,602148,133
+Kuntaur,Upper Saloum,Njau,Bati Jamagen,602111,402
+Kuntaur,Upper Saloum,Njau,Bati Khai,602112,436
+Kuntaur,Upper Saloum,Njau,Bati Ndarr,602113,1703
+Kuntaur,Upper Saloum,Njau,Bati Yongo,602114,149
+Kuntaur,Upper Saloum,Njau,Buntung,602115,154
+Kuntaur,Upper Saloum,Njau,Darusalam,602116,152
+Kuntaur,Upper Saloum,Njau,Gui Jahanka,602117,550
+Kuntaur,Upper Saloum,Njau,Jagleh,602118,143
+Kuntaur,Upper Saloum,Njau,Jama Tukulor,602120,148
+Kuntaur,Upper Saloum,Njau,Jareng Amdalai,602125,212
+Kuntaur,Upper Saloum,Njau,Jareng Kerr Mamoud,602127,150
+Kuntaur,Upper Saloum,Njau,Jareng Kerr Modou Warr,602121,297
+Kuntaur,Upper Saloum,Njau,Jareng Passi,602123,185
+Kuntaur,Upper Saloum,Njau,Kerr Auldeh,602129,783
+Kuntaur,Upper Saloum,Njau,Kerr Galajo,602149,122
+Kuntaur,Upper Saloum,Njau,Kerr Gibby,602126,416
+Kuntaur,Upper Saloum,Njau,Kerr Lai,602107,128
+Kuntaur,Upper Saloum,Njau,Kerr Mamudu Fana,602109,80
+Kuntaur,Upper Saloum,Njau,Kerr Mod Hale,602128,130
+Kuntaur,Upper Saloum,Njau,Kerr Tamsir,602110,230
+Kuntaur,Upper Saloum,Njau,Kerr Waka,602108,113
+Kuntaur,Upper Saloum,Njau,Kofa,602130,240
+Kuntaur,Upper Saloum,Njau,Leba Amat Jallow,602131,162
+Kuntaur,Upper Saloum,Njau,Leba Malick Mbye,602132,455
+Kuntaur,Upper Saloum,Njau,Leba Pegel,602152,63
+Kuntaur,Upper Saloum,Njau,Leba Samba Jobe,602133,334
+Kuntaur,Upper Saloum,Njau,Leba Seedy Njie,602135,65
+Kuntaur,Upper Saloum,Njau,M'Bolgoh,602142,223
+Kuntaur,Upper Saloum,Njau,Madina Adam Jossy,602136,180
+Kuntaur,Upper Saloum,Njau,Maka Ali Serigne,602138,354
+Kuntaur,Upper Saloum,Njau,Mbayen Chand Mbai,602139,148
+Kuntaur,Upper Saloum,Njau,Mbayen Kerr Nderry Touray,602140,218
+Kuntaur,Upper Saloum,Njau,Mbogen,602141,59
+Kuntaur,Upper Saloum,Njau,Ndakaru Angelleh,602143,66
+Kuntaur,Upper Saloum,Njau,Njaige,602144,415
+Kuntaur,Upper Saloum,Njau,Njau Sawallo,602145,746
+Kuntaur,Upper Saloum,Njau,Njokoben,602147,83
+Kuntaur,Upper Saloum,Njau,Sey Kunda,602146,635
+Kuntaur,Upper Saloum,Njau,Tuba Pakala,602150,86
+Kuntaur,Upper Saloum,Njau,Tyba 1,602151,309
+Kuntaur,Upper Saloum,Panchang,Daru Mbayen / Yundum,602201,223
+Kuntaur,Upper Saloum,Panchang,Fass,602202,1244
+Kuntaur,Upper Saloum,Panchang,Fass Njama,602204,157
+Kuntaur,Upper Saloum,Panchang,Hosnanu,602205,136
+Kuntaur,Upper Saloum,Panchang,Kerr Ali Jelleh,602206,468
+Kuntaur,Upper Saloum,Panchang,Kerr Maka Tukulor,602207,112
+Kuntaur,Upper Saloum,Panchang,Kerr Maka Wollof,602208,162
+Kuntaur,Upper Saloum,Panchang,Kerr Sait Saloum,602209,393
+Kuntaur,Upper Saloum,Panchang,Madina Manneh,602211,291
+Kuntaur,Upper Saloum,Panchang,Madina Serigne Njie,602212,110
+Kuntaur,Upper Saloum,Panchang,Mbayen Saine,602213,352
+Kuntaur,Upper Saloum,Panchang,Misira Sambayel Cham,602214,518
+Kuntaur,Upper Saloum,Panchang,Nioro Buba Njie,602216,183
+Kuntaur,Upper Saloum,Panchang,Nioro Challen,602236,70
+Kuntaur,Upper Saloum,Panchang,Nioro Demba Njie,602217,259
+Kuntaur,Upper Saloum,Panchang,Nioro Ebrima Wan,602218,379
+Kuntaur,Upper Saloum,Panchang,Nioro Wollof,602215,441
+Kuntaur,Upper Saloum,Panchang,Njama Fafa Ceesay,602220,125
+Kuntaur,Upper Saloum,Panchang,Njama Hainuman,602221,176
+Kuntaur,Upper Saloum,Panchang,Panchang Madi Fana,602222,341
+Kuntaur,Upper Saloum,Panchang,Panchang Maka Gui,602223,217
+Kuntaur,Upper Saloum,Panchang,Panchang Sinchu Taba,602224,252
+Kuntaur,Upper Saloum,Panchang,Panchang Wharf Town,602225,807
+Kuntaur,Upper Saloum,Panchang,Porli Baro Khan,602226,224
+Kuntaur,Upper Saloum,Panchang,Porli Lewna,602227,70
+Kuntaur,Upper Saloum,Panchang,Porli Tukulorr,602228,257
+Kuntaur,Upper Saloum,Panchang,Sam,602229,428
+Kuntaur,Upper Saloum,Panchang,Taiba Siareh,602230,81
+Kuntaur,Upper Saloum,Panchang,Tamba,602231,535
+Kuntaur,Upper Saloum,Panchang,Tento Madi Secka /Tento Chebo,602232,276
+Kuntaur,Upper Saloum,Panchang,Tento Malick Bah,602233,173
+Kuntaur,Upper Saloum,Panchang,Tento Malick Secka,602234,43
+Kuntaur,Upper Saloum,Panchang,Toben,602235,232
+Kuntaur,Nianija,Chamen,Bakadagie,603101,1388
+Kuntaur,Nianija,Chamen,Bati Jaha,603102,400
+Kuntaur,Nianija,Chamen,Buduck,601201,3
+Kuntaur,Nianija,Chamen,Buduck,603103,406
+Kuntaur,Nianija,Chamen,Carol Wharf,603104,29
+Kuntaur,Nianija,Chamen,Ceesay Kunda,603105,91
+Kuntaur,Nianija,Chamen,Chamen,501205,12
+Kuntaur,Nianija,Chamen,Chamen,603106,1495
+Kuntaur,Nianija,Chamen,Darusalam,603107,275
+Kuntaur,Nianija,Chamen,Jailan,603108,465
+Kuntaur,Nianija,Chamen,Jamagen,603110,112
+Kuntaur,Nianija,Chamen,Jamwelly,603111,103
+Kuntaur,Nianija,Chamen,Kayai,603113,171
+Kuntaur,Nianija,Chamen,Kerewan,603114,354
+Kuntaur,Nianija,Chamen,Kerr Gibel,603116,323
+Kuntaur,Nianija,Chamen,Konteh,603119,745
+Kuntaur,Nianija,Chamen,Madina Sinchang,603136,101
+Kuntaur,Nianija,Chamen,Makka Jaha,603120,96
+Kuntaur,Nianija,Chamen,Mbayen Burama,603121,281
+Kuntaur,Nianija,Chamen,Medina Njaien,603122,371
+Kuntaur,Nianija,Chamen,N'Drammeh,603123,266
+Kuntaur,Nianija,Chamen,Nema Samba,603124,172
+Kuntaur,Nianija,Chamen,Ngeden,603125,329
+Kuntaur,Nianija,Chamen,Nioro Buba (Sinchu Omar),603126,393
+Kuntaur,Nianija,Chamen,Njau Jaha,603127,143
+Kuntaur,Nianija,Chamen,Njie Kunda /Sinchu Saidy,603128,200
+Kuntaur,Nianija,Chamen,Palelai,603129,501
+Kuntaur,Nianija,Chamen,Sare Alpha,603115,351
+Kuntaur,Nianija,Chamen,Sare Janko,603117,601
+Kuntaur,Nianija,Chamen,Sare Seedy,603118,590
+Kuntaur,Nianija,Chamen,Sinchu Baya,603130,114
+Kuntaur,Nianija,Chamen,Sinchu Demba,603131,187
+Kuntaur,Nianija,Chamen,Sinchu Tamsir,603132,654
+Kuntaur,Nianija,Chamen,Wellingara Alpha,603134,161
+Kuntaur,Nianija,Chamen,Wellingara Buba Bah,603135,270
+Kuntaur,Niani,Kuntaur,Bakadagi Mandinka,604101,269
+Kuntaur,Niani,Kuntaur,Bakadagi Toranka,604102,198
+Kuntaur,Niani,Kuntaur,Barajally Suba,604103,552
+Kuntaur,Niani,Kuntaur,Barajally Tenda,604104,160
+Kuntaur,Niani,Kuntaur,Daru Salam,604105,55
+Kuntaur,Niani,Kuntaur,Doke Allah,604106,442
+Kuntaur,Niani,Kuntaur,Faraba Sorry Kandeh,604108,156
+Kuntaur,Niani,Kuntaur,Jakaba,604110,986
+Kuntaur,Niani,Kuntaur,Jamwelly Galajo Bah,604111,60
+Kuntaur,Niani,Kuntaur,Jarumeh Kuta,604112,537
+Kuntaur,Niani,Kuntaur,Kataba Omar Ndow,604113,1186
+Kuntaur,Niani,Kuntaur,Kataba Serign Kah,604114,389
+Kuntaur,Niani,Kuntaur,Kayai,603113,9
+Kuntaur,Niani,Kuntaur,Kayai,604115,909
+Kuntaur,Niani,Kuntaur,Kerr Sait Maram,604117,448
+Kuntaur,Niani,Kuntaur,Kuntaur Fula Kunda,604118,595
+Kuntaur,Niani,Kuntaur,Kuntaur Wharf Town,604119,964
+Kuntaur,Niani,Kuntaur,Kuyarang,604120,79
+Kuntaur,Niani,Kuntaur,M'Bolbuck Tombong,604123,127
+Kuntaur,Niani,Kuntaur,Macca Saderr Manneh,604121,341
+Kuntaur,Niani,Kuntaur,Madina Lamin Kanteh,604122,918
+Kuntaur,Niani,Kuntaur,Manjumba,604147,309
+Kuntaur,Niani,Kuntaur,Missira Jammeh Kebbeh,604124,78
+Kuntaur,Niani,Kuntaur,Missira Ngaine Tanu,604125,473
+Kuntaur,Niani,Kuntaur,Nema Fula Kunda,604126,139
+Kuntaur,Niani,Kuntaur,Nema Mandinka,604127,239
+Kuntaur,Niani,Kuntaur,Pallang Mandinka,604128,398
+Kuntaur,Niani,Kuntaur,Pallang Toranka,604129,171
+Kuntaur,Niani,Kuntaur,Sanda,604130,334
+Kuntaur,Niani,Kuntaur,Sare Nyanga Bamoul,604132,86
+Kuntaur,Niani,Kuntaur,Sare Nyanga Jalubeh,604133,221
+Kuntaur,Niani,Kuntaur,Sare Samba Kah,604134,165
+Kuntaur,Niani,Kuntaur,Sinchu Colley,604154,73
+Kuntaur,Niani,Kuntaur,Sinchu Garaba,604135,117
+Kuntaur,Niani,Kuntaur,Sinchu Jataly,604136,313
+Kuntaur,Niani,Kuntaur,Sinchu Jenum Daka,604149,94
+Kuntaur,Niani,Kuntaur,Sinchu Jenum Touray,604137,177
+Kuntaur,Niani,Kuntaur,Sinchu Madina,604155,66
+Kuntaur,Niani,Kuntaur,Sinchu Malick Barry,604138,256
+Kuntaur,Niani,Kuntaur,Sukuta,604139,1499
+Kuntaur,Niani,Kuntaur,Tuba Koto,604140,398
+Kuntaur,Niani,Kuntaur,Tuba Kuta,604141,338
+Kuntaur,Niani,Kuntaur,Wassu,604142,2371
+Kuntaur,Niani,Kuntaur,Woi Buray,604143,65
+Kuntaur,Niani,Nyanga,Dingerai,604202,622
+Kuntaur,Niani,Nyanga,Fridawsy,604203,641
+Kuntaur,Niani,Nyanga,Gingory Manga,604250,67
+Kuntaur,Niani,Nyanga,Gingory Mustapha,604204,383
+Kuntaur,Niani,Nyanga,Hamadalai,604206,334
+Kuntaur,Niani,Nyanga,Jalala Mudu Bah,604234,91
+Kuntaur,Niani,Nyanga,Jallow Kunda,604208,163
+Kuntaur,Niani,Nyanga,Jallow Kunda Kerewan Bakari Sabally,604207,302
+Kuntaur,Niani,Nyanga,Jallow Kunda Mat Mbye,604210,574
+Kuntaur,Niani,Nyanga,Jallow Kunda Serign Mbye,604209,471
+Kuntaur,Niani,Nyanga,Jamagen,604211,60
+Kuntaur,Niani,Nyanga,Jamwelly,604212,193
+Kuntaur,Niani,Nyanga,Jockul Ndowen,604213,1920
+Kuntaur,Niani,Nyanga,Kass Fula,604214,387
+Kuntaur,Niani,Nyanga,Kass Proum,604215,263
+Kuntaur,Niani,Nyanga,Kass Wollof,604216,898
+Kuntaur,Niani,Nyanga,Kass Yallal Fula,604217,200
+Kuntaur,Niani,Nyanga,Kass Yallal Wollof,604218,309
+Kuntaur,Niani,Nyanga,Kucha,604219,168
+Kuntaur,Niani,Nyanga,Macca Gui,604251,163
+Kuntaur,Niani,Nyanga,Madina Jocku,604227,126
+Kuntaur,Niani,Nyanga,Madina Kula Bah,604228,65
+Kuntaur,Niani,Nyanga,Madina Njaine,604229,199
+Kuntaur,Niani,Nyanga,Madina Nyangen,604230,385
+Kuntaur,Niani,Nyanga,Mbarro,604226,296
+Kuntaur,Niani,Nyanga,Mbayen Fula,604223,95
+Kuntaur,Niani,Nyanga,Mbayen Kambi,604224,68
+Kuntaur,Niani,Nyanga,Mbayen Wollof,604225,217
+Kuntaur,Niani,Nyanga,Ngunta,604220,391
+Kuntaur,Niani,Nyanga,Niakoi Tukulor,604221,65
+Kuntaur,Niani,Nyanga,Niakoi Wollof,604231,237
+Kuntaur,Niani,Nyanga,Njalal Samba Bah,604235,419
+Kuntaur,Niani,Nyanga,Njoben Fula,604236,511
+Kuntaur,Niani,Nyanga,Njoben Tukulor,604237,303
+Kuntaur,Niani,Nyanga,Njoben Wollof,604238,250
+Kuntaur,Niani,Nyanga,Nyanga / Challen Bakary,604201,402
+Kuntaur,Niani,Nyanga,Nyanga Bantang,604239,956
+Kuntaur,Niani,Nyanga,Nyangen,604240,726
+Kuntaur,Niani,Nyanga,Pallol Fula,604241,434
+Kuntaur,Niani,Nyanga,Pallol Wollof,604242,505
+Kuntaur,Niani,Nyanga,Ramatoulai,604243,423
+Kuntaur,Niani,Nyanga,Safalu,604244,286
+Kuntaur,Niani,Nyanga,Sanguleh,604246,654
+Kuntaur,Niani,Nyanga,Touba Mbachi,604248,274
+Kuntaur,Niani,Nyanga,Wellingara Tamba,604249,27
+Kuntaur,Sami,Banni,Amsterdam,605132,78
+Kuntaur,Sami,Banni,Banni,605101,572
+Kuntaur,Sami,Banni,Bush Town,605102,612
+Kuntaur,Sami,Banni,Dobo,605103,716
+Kuntaur,Sami,Banni,Jala Koto,605105,579
+Kuntaur,Sami,Banni,Jamal Babou,605106,462
+Kuntaur,Sami,Banni,Jamal Bereh Jallow,605107,159
+Kuntaur,Sami,Banni,Jamal Ganiado Njie,605108,431
+Kuntaur,Sami,Banni,Jamal Kebba Jobe,605124,72
+Kuntaur,Sami,Banni,Jamal Tamsir Musa,605109,266
+Kuntaur,Sami,Banni,Jamal Tamsir Secka,605110,99
+Kuntaur,Sami,Banni,Jarumeh Koto,605111,1318
+Kuntaur,Sami,Banni,Kibiri,605112,859
+Kuntaur,Sami,Banni,Kolly Kunda,605113,307
+Kuntaur,Sami,Banni,Konko Duma,605114,73
+Kuntaur,Sami,Banni,Kora,605121,57
+Kuntaur,Sami,Banni,Kujew,605115,122
+Kuntaur,Sami,Banni,Kujew Fula Kunda,605116,77
+Kuntaur,Sami,Banni,Kunting,605117,1885
+Kuntaur,Sami,Banni,Lamin Koto,605118,522
+Kuntaur,Sami,Banni,Lamin Koto Terminal,605119,374
+Kuntaur,Sami,Banni,Manna,605120,299
+Kuntaur,Sami,Banni,Salikenneh,605123,69
+Kuntaur,Sami,Banni,Sinchu Alagie Jatta/Sare Jatta,605129,212
+Kuntaur,Sami,Banni,Sotokoi,605125,226
+Kuntaur,Sami,Banni,Tankong Kunda,605126,509
+Kuntaur,Sami,Banni,Wellingara Omar/Hydara,605104,259
+Kuntaur,Sami,Banni,Yornah,605127,402
+Kuntaur,Sami,Karantaba,Chamen,605201,92
+Kuntaur,Sami,Karantaba,Changai Tukulor,605202,192
+Kuntaur,Sami,Karantaba,Changai Wollof,605203,630
+Kuntaur,Sami,Karantaba,Demba Kali,605204,305
+Kuntaur,Sami,Karantaba,Demba Kunda,605205,47
+Kuntaur,Sami,Karantaba,Demfai Karim,605206,56
+Kuntaur,Sami,Karantaba,Demfai Njaga,605207,706
+Kuntaur,Sami,Karantaba,Fitu Fula,605208,381
+Kuntaur,Sami,Karantaba,Fitu Wollof,605209,130
+Kuntaur,Sami,Karantaba,Jamagen,605210,183
+Kuntaur,Sami,Karantaba,Kalem Jawbeh,605211,243
+Kuntaur,Sami,Karantaba,Kalem Saine,605212,256
+Kuntaur,Sami,Karantaba,Karantaba Bantang Koto,605213,12
+Kuntaur,Sami,Karantaba,Karantaba Duto Koto,605214,464
+Kuntaur,Sami,Karantaba,Karantaba Tabokoto,605215,199
+Kuntaur,Sami,Karantaba,Karantaba Tenda,605216,213
+Kuntaur,Sami,Karantaba,Karantaba Tukolorr,605217,365
+Kuntaur,Sami,Karantaba,Karantaba Wollof,605218,350
+Kuntaur,Sami,Karantaba,Mbapapu,605219,174
+Kuntaur,Sami,Karantaba,Missira,506413,4
+Kuntaur,Sami,Karantaba,Missira,605220,32
+Kuntaur,Sami,Karantaba,Njalal Fula,605221,114
+Kuntaur,Sami,Karantaba,Reneru Fula,605222,356
+Kuntaur,Sami,Karantaba,Reneru Wollof,605223,864
+Kuntaur,Sami,Karantaba,Sahuma Kunda,605224,55
+Kuntaur,Sami,Karantaba,Sinchu Njaga Touray,605225,32
+Kuntaur,Sami,Karantaba,Tabanani,605226,561
+Kuntaur,Sami,Karantaba,Tabayel,605227,83
+Kuntaur,Sami,Karantaba,Tassaly,605228,109
+Kuntaur,Sami,Karantaba,Timpa,605229,187
+Kuntaur,Sami,Karantaba,Toniataba,605230,98
+Kuntaur,Sami,Pachonki,Bantangel,605301,134
+Kuntaur,Sami,Pachonki,Baya-Bah,605302,788
+Kuntaur,Sami,Pachonki,Fory,605303,230
+Kuntaur,Sami,Pachonki,Jallubeh,605304,304
+Kuntaur,Sami,Pachonki,Madiana,605305,612
+Kuntaur,Sami,Pachonki,Mamayunkumeh Bantanjel,605317,4
+Kuntaur,Sami,Pachonki,Mamayunkumeh Baya bah,605306,85
+Kuntaur,Sami,Pachonki,Njalal Samba,605316,694
+Kuntaur,Sami,Pachonki,Sami Madina,605308,1236
+Kuntaur,Sami,Pachonki,Sami Omar Jula,605309,156
+Kuntaur,Sami,Pachonki,Sami Pachonki,605307,2922
+Kuntaur,Sami,Pachonki,Sami Suruwa Kunda,605310,1110
+Kuntaur,Sami,Pachonki,Sami Wharf Town,605311,69
+Kuntaur,Sami,Pachonki,Sinchu Baya,605312,281
+Kuntaur,Sami,Pachonki,Sinchu Dura,605318,26
+Kuntaur,Sami,Pachonki,Tandy Bara,605313,329
+Kuntaur,Sami,Pachonki,Tandy Kunda Mandinka,605315,647
+Kuntaur,Sami,Pachonki,Tandy Kunda Wollof,605314,90
+Janjanbureh,Niamina Dankunku,Dankunku,Babou Jobe,701101,849
+Janjanbureh,Niamina Dankunku,Dankunku,Bambaya,701102,222
+Janjanbureh,Niamina Dankunku,Dankunku,Bantang Koto Mandinka,701103,72
+Janjanbureh,Niamina Dankunku,Dankunku,Bantang Koto Njama,701104,176
+Janjanbureh,Niamina Dankunku,Dankunku,Barrow Kunda,701105,718
+Janjanbureh,Niamina Dankunku,Dankunku,Bohole,701106,64
+Janjanbureh,Niamina Dankunku,Dankunku,Brikama / Lefaye,701107,35
+Janjanbureh,Niamina Dankunku,Dankunku,Buniadu,701108,82
+Janjanbureh,Niamina Dankunku,Dankunku,Dankunku,701109,914
+Janjanbureh,Niamina Dankunku,Dankunku,Daru Salam,701110,211
+Janjanbureh,Niamina Dankunku,Dankunku,Jakoto,701113,522
+Janjanbureh,Niamina Dankunku,Dankunku,Jisadi,701111,546
+Janjanbureh,Niamina Dankunku,Dankunku,Kali Kajara,701114,132
+Janjanbureh,Niamina Dankunku,Dankunku,Kerr Layen,701125,823
+Janjanbureh,Niamina Dankunku,Dankunku,Kulenya Badala,701127,21
+Janjanbureh,Niamina Dankunku,Dankunku,Madina Karim,701115,103
+Janjanbureh,Niamina Dankunku,Dankunku,Missira Mbye Sowe,701117,120
+Janjanbureh,Niamina Dankunku,Dankunku,Missira Pateh Ganno,701116,119
+Janjanbureh,Niamina Dankunku,Dankunku,Modikaya,701118,114
+Janjanbureh,Niamina Dankunku,Dankunku,Ndakaru (Bambaya),701120,16
+Janjanbureh,Niamina Dankunku,Dankunku,Sambang Wollof,701121,221
+Janjanbureh,Niamina Dankunku,Dankunku,Sami,501120,9
+Janjanbureh,Niamina Dankunku,Dankunku,Sami,701122,95
+Janjanbureh,Niamina Dankunku,Dankunku,Sey Kunda,602146,1
+Janjanbureh,Niamina Dankunku,Dankunku,Sey Kunda,701123,230
+Janjanbureh,Niamina Dankunku,Dankunku,Sinchu Njugary,701124,353
+Janjanbureh,Niamina Dankunku,Dankunku,Touba Mouriet,701119,252
+Janjanbureh,Niamina Dankunku,Dankunku,Wellingara Ello,701112,204
+Janjanbureh,Niamina Dankunku,Dankunku,Yerro ya,701126,60
+Janjanbureh,Niamina West,Katamina,Anish Kunda,702101,253
+Janjanbureh,Niamina West,Katamina,Choya,702102,213
+Janjanbureh,Niamina West,Katamina,Dalaba,702103,484
+Janjanbureh,Niamina West,Katamina,Demba Kunda,702104,101
+Janjanbureh,Niamina West,Katamina,Jaiteh Kunda,702135,63
+Janjanbureh,Niamina West,Katamina,Jamal Kerr Katim,702111,1153
+Janjanbureh,Niamina West,Katamina,Jamara Nema,702105,245
+Janjanbureh,Niamina West,Katamina,Jamara Sarr Kunda,702106,339
+Janjanbureh,Niamina West,Katamina,Jamwelly Gainako,702107,126
+Janjanbureh,Niamina West,Katamina,Jawla Ba,702108,535
+Janjanbureh,Niamina West,Katamina,Kabamba,702109,189
+Janjanbureh,Niamina West,Katamina,Katamina,702110,470
+Janjanbureh,Niamina West,Katamina,Koli Kunda,702113,188
+Janjanbureh,Niamina West,Katamina,Kumbaney Bunaidu,702114,130
+Janjanbureh,Niamina West,Katamina,Kumbaney Mandinka,702115,118
+Janjanbureh,Niamina West,Katamina,Kumbija,702116,76
+Janjanbureh,Niamina West,Katamina,Madina Madi,702112,522
+Janjanbureh,Niamina West,Katamina,Mali Kunda,702117,434
+Janjanbureh,Niamina West,Katamina,Medina Wallom,702118,106
+Janjanbureh,Niamina West,Katamina,Nana Ba,702119,382
+Janjanbureh,Niamina West,Katamina,Nana Missira,702120,70
+Janjanbureh,Niamina West,Katamina,Nana Sami,702121,228
+Janjanbureh,Niamina West,Katamina,Pappa,702122,79
+Janjanbureh,Niamina West,Katamina,Pinai Fula Kunda,702124,123
+Janjanbureh,Niamina West,Katamina,Pinai Mandinka,702123,275
+Janjanbureh,Niamina West,Katamina,Sambang Mandinka Kunda,702125,197
+Janjanbureh,Niamina West,Katamina,Sambang Niji,702126,381
+Janjanbureh,Niamina West,Katamina,Sambang Njie kunda,702127,45
+Janjanbureh,Niamina West,Katamina,Sambang Njuga kunda,702128,112
+Janjanbureh,Niamina West,Katamina,Sambel Kunda,702129,93
+Janjanbureh,Niamina West,Katamina,Sare Bakary,702130,72
+Janjanbureh,Niamina West,Katamina,Sare Pateh,702131,71
+Janjanbureh,Niamina West,Katamina,Sowe Kunda,702132,90
+Janjanbureh,Niamina West,Katamina,Tabanani,402210,8
+Janjanbureh,Niamina West,Katamina,Tabanani,702133,132
+Janjanbureh,Niamina West,Katamina,Wellingara Momodou Jallow,702134,374
+Janjanbureh,Niamina East,Jarreng,Bamba Kolong,703113,230
+Janjanbureh,Niamina East,Jarreng,Bantanto,703107,306
+Janjanbureh,Niamina East,Jarreng,Batty Njoll,703102,1585
+Janjanbureh,Niamina East,Jarreng,Hamdalai,703108,217
+Janjanbureh,Niamina East,Jarreng,Jallow Kunda,703111,74
+Janjanbureh,Niamina East,Jarreng,Jarreng,703101,2526
+Janjanbureh,Niamina East,Jarreng,Jarreng Tenda,703119,304
+Janjanbureh,Niamina East,Jarreng,Jockul,703106,599
+Janjanbureh,Niamina East,Jarreng,Kerr Biran,703115,768
+Janjanbureh,Niamina East,Jarreng,Mamud Fana,703103,2037
+Janjanbureh,Niamina East,Jarreng,Mbayen,507215,9
+Janjanbureh,Niamina East,Jarreng,Mbayen,703104,954
+Janjanbureh,Niamina East,Jarreng,Medina Chamen,703105,70
+Janjanbureh,Niamina East,Jarreng,Ngawarr,703116,223
+Janjanbureh,Niamina East,Jarreng,Pakan,703109,286
+Janjanbureh,Niamina East,Jarreng,Sinchu Boly,703117,136
+Janjanbureh,Niamina East,Jarreng,Sinchu Yoro,703112,44
+Janjanbureh,Niamina East,Jarreng,Thirty Mile,703114,550
+Janjanbureh,Niamina East,Jarreng,Torro,703110,129
+Janjanbureh,Niamina East,Jarreng,Wellingara Montang,703118,87
+Janjanbureh,Niamina East,Kudang,Banni,703214,290
+Janjanbureh,Niamina East,Kudang,Banni Daka,703234,76
+Janjanbureh,Niamina East,Kudang,Busura,703225,457
+Janjanbureh,Niamina East,Kudang,Daru Salam,504101,6
+Janjanbureh,Niamina East,Kudang,Daru Salam,703224,22
+Janjanbureh,Niamina East,Kudang,Jafai Koto,703223,99
+Janjanbureh,Niamina East,Kudang,Jafai Kuta,703217,202
+Janjanbureh,Niamina East,Kudang,Karantaba,703215,75
+Janjanbureh,Niamina East,Kudang,Karantaba Tenda,605216,10
+Janjanbureh,Niamina East,Kudang,Karantaba Tenda,703231,39
+Janjanbureh,Niamina East,Kudang,Kawlong,703208,609
+Janjanbureh,Niamina East,Kudang,Kerewan Demba,703219,730
+Janjanbureh,Niamina East,Kudang,Kerewan Touray,703201,198
+Janjanbureh,Niamina East,Kudang,Kerr Omar,703206,658
+Janjanbureh,Niamina East,Kudang,Kudang,703204,2214
+Janjanbureh,Niamina East,Kudang,Kudang Tenda,703230,667
+Janjanbureh,Niamina East,Kudang,Kununku,703213,360
+Janjanbureh,Niamina East,Kudang,Macca Mbayen,703228,1259
+Janjanbureh,Niamina East,Kudang,Maundeh Kunda,703222,610
+Janjanbureh,Niamina East,Kudang,Missira,703211,377
+Janjanbureh,Niamina East,Kudang,Moria,703212,92
+Janjanbureh,Niamina East,Kudang,Njie Kunda,504106,4
+Janjanbureh,Niamina East,Kudang,Njie Kunda,703203,1002
+Janjanbureh,Niamina East,Kudang,Pateh Sam,703229,2440
+Janjanbureh,Niamina East,Kudang,Sambel Kunda,702129,4
+Janjanbureh,Niamina East,Kudang,Sambel Kunda,703210,741
+Janjanbureh,Niamina East,Kudang,Sambel Kunda Daka,703233,105
+Janjanbureh,Niamina East,Kudang,Sinchu Alagie,302205,63
+Janjanbureh,Niamina East,Kudang,Sinchu Alagie,703221,1077
+Janjanbureh,Niamina East,Kudang,Sinchu Gundo,703226,520
+Janjanbureh,Niamina East,Kudang,Sinchu Ngai,703202,33
+Janjanbureh,Niamina East,Kudang,Sinchu Njanko,703227,280
+Janjanbureh,Niamina East,Kudang,Sotokoi,301305,3
+Janjanbureh,Niamina East,Kudang,Sotokoi,703205,954
+Janjanbureh,Niamina East,Kudang,Temengi,703207,88
+Janjanbureh,Niamina East,Kudang,Tenenfara,703220,442
+Janjanbureh,Niamina East,Kudang,Tuba Demba Sama,703209,444
+Janjanbureh,Niamina East,Kudang,Wellingara,703218,313
+Janjanbureh,Niamina East,Kudang,Yida,703216,94
+Janjanbureh,Lower Fuladu West,Brikamaba,Brikamaba,704101,5664
+Janjanbureh,Lower Fuladu West,Brikamaba,Brikamanding,704102,1580
+Janjanbureh,Lower Fuladu West,Brikamaba,Darsilameh,704103,1528
+Janjanbureh,Lower Fuladu West,Brikamaba,Dingrai,704104,189
+Janjanbureh,Lower Fuladu West,Brikamaba,Gori,704105,100
+Janjanbureh,Lower Fuladu West,Brikamaba,Jahaly,704108,2030
+Janjanbureh,Lower Fuladu West,Brikamaba,Jamwelly,302310,3
+Janjanbureh,Lower Fuladu West,Brikamaba,Jamwelly,704109,337
+Janjanbureh,Lower Fuladu West,Brikamaba,Kawlong Alieu,704110,331
+Janjanbureh,Lower Fuladu West,Brikamaba,Kawlong Ousman,704119,207
+Janjanbureh,Lower Fuladu West,Brikamaba,Madina Umfally,704111,3531
+Janjanbureh,Lower Fuladu West,Brikamaba,Nema Samba Jallow,704113,55
+Janjanbureh,Lower Fuladu West,Brikamaba,Sare Abdou,704114,409
+Janjanbureh,Lower Fuladu West,Brikamaba,Sare Luba,704115,460
+Janjanbureh,Lower Fuladu West,Brikamaba,Sare Malang,704116,389
+Janjanbureh,Lower Fuladu West,Brikamaba,Sare Nyebeh,704106,161
+Janjanbureh,Lower Fuladu West,Brikamaba,Sare Samba,704117,275
+Janjanbureh,Lower Fuladu West,Brikamaba,Sinchu Madado,704112,1335
+Janjanbureh,Lower Fuladu West,Brikamaba,Sukurr,704118,334
+Janjanbureh,Lower Fuladu West,Kerewan,Ahalulai,704201,1056
+Janjanbureh,Lower Fuladu West,Kerewan,Boiram,704202,3085
+Janjanbureh,Lower Fuladu West,Kerewan,Bowe Fula,704203,563
+Janjanbureh,Lower Fuladu West,Kerewan,Fass Abdou Sey,704205,878
+Janjanbureh,Lower Fuladu West,Kerewan,Kerewan Mandinka,704206,606
+Janjanbureh,Lower Fuladu West,Kerewan,Kerewan Samba Sire,704207,844
+Janjanbureh,Lower Fuladu West,Kerewan,Medina Amadou,704208,692
+Janjanbureh,Lower Fuladu West,Kerewan,Njoben,704209,2221
+Janjanbureh,Lower Fuladu West,Kerewan,Sabusireh,704210,239
+Janjanbureh,Lower Fuladu West,Kerewan,Sapu,704224,94
+Janjanbureh,Lower Fuladu West,Kerewan,Sare Babou,403209,10
+Janjanbureh,Lower Fuladu West,Kerewan,Sare Babou,704211,692
+Janjanbureh,Lower Fuladu West,Kerewan,Sare Buty,704212,7
+Janjanbureh,Lower Fuladu West,Kerewan,Saruja,704213,1870
+Janjanbureh,Lower Fuladu West,Kerewan,Sinchang Saikou,704214,40
+Janjanbureh,Lower Fuladu West,Kerewan,Sinchu Bamba,704215,429
+Janjanbureh,Lower Fuladu West,Kerewan,Sinchu Delegas,704204,355
+Janjanbureh,Lower Fuladu West,Kerewan,Sinchu Dembel,704216,181
+Janjanbureh,Lower Fuladu West,Kerewan,Sinchu Magai,704217,705
+Janjanbureh,Lower Fuladu West,Kerewan,Sinchu Modi,704218,37
+Janjanbureh,Lower Fuladu West,Kerewan,Tabanding,704220,424
+Janjanbureh,Lower Fuladu West,Kerewan,Taifa,704221,1387
+Janjanbureh,Lower Fuladu West,Kerewan,Wali Kunda,704222,123
+Janjanbureh,Lower Fuladu West,Kerewan,Wellingara Kejaw,704223,537
+Janjanbureh,Lower Fuladu West,Fulabantang,Demba Kumbel,704315,137
+Janjanbureh,Lower Fuladu West,Fulabantang,Faraba,704302,417
+Janjanbureh,Lower Fuladu West,Fulabantang,Fula Bantang,704303,1025
+Janjanbureh,Lower Fuladu West,Fulabantang,Gidda,704304,479
+Janjanbureh,Lower Fuladu West,Fulabantang,Konko Fula,704306,181
+Janjanbureh,Lower Fuladu West,Fulabantang,Kusalang,704307,286
+Janjanbureh,Lower Fuladu West,Fulabantang,Madina Jawbeh,704314,91
+Janjanbureh,Lower Fuladu West,Fulabantang,Medina Ceesay Kunda,704308,137
+Janjanbureh,Lower Fuladu West,Fulabantang,Muritabeh,704309,515
+Janjanbureh,Lower Fuladu West,Fulabantang,Nema,704311,289
+Janjanbureh,Lower Fuladu West,Fulabantang,Njie Kunda,704312,175
+Janjanbureh,Lower Fuladu West,Fulabantang,Pachari,704313,1189
+Janjanbureh,Lower Fuladu West,Fulabantang,Sankulay Kunda,704316,656
+Janjanbureh,Lower Fuladu West,Fulabantang,Sare Adama,704317,266
+Janjanbureh,Lower Fuladu West,Fulabantang,Sare Balla /Kanel Samba,704305,123
+Janjanbureh,Lower Fuladu West,Fulabantang,Sare Batch,704318,319
+Janjanbureh,Lower Fuladu West,Fulabantang,Sare Fosseri,704320,173
+Janjanbureh,Lower Fuladu West,Fulabantang,Sare Jajeh /Sanyang,704321,171
+Janjanbureh,Lower Fuladu West,Fulabantang,Sare Mawundeh,704301,88
+Janjanbureh,Lower Fuladu West,Fulabantang,Sare Molloh,704322,109
+Janjanbureh,Lower Fuladu West,Fulabantang,Sare Nfali,704319,369
+Janjanbureh,Lower Fuladu West,Fulabantang,Sare Ngai,704323,318
+Janjanbureh,Lower Fuladu West,Fulabantang,Sare Pateh,704324,51
+Janjanbureh,Lower Fuladu West,Fulabantang,Sare Yero Tako,704327,323
+Janjanbureh,Lower Fuladu West,Fulabantang,Sare Yewtu,704326,349
+Janjanbureh,Lower Fuladu West,Fulabantang,Serirn Saho,704328,236
+Janjanbureh,Lower Fuladu West,Fulabantang,Sinchu Bora,704329,209
+Janjanbureh,Lower Fuladu West,Fulabantang,Sinchu Sambuldu,704325,190
+Janjanbureh,Lower Fuladu West,Fulabantang,Sinchu Yorro,704331,236
+Janjanbureh,Lower Fuladu West,Fulabantang,Sinchu Yorro,704337,57
+Janjanbureh,Lower Fuladu West,Fulabantang,Tabanani,704332,906
+Janjanbureh,Lower Fuladu West,Fulabantang,Temanto Sinchu Kulereh,704333,59
+Janjanbureh,Lower Fuladu West,Fulabantang,Tumani Fatty,704336,34
+Janjanbureh,Lower Fuladu West,Fulabantang,Wuring Kunda,704335,141
+Janjanbureh,Janjanbureh,MacCarthy,Janjanbureh,705101,3744
+Janjanbureh,Upper Fuladu West,Bansang,Allatentu,706101,375
+Janjanbureh,Upper Fuladu West,Bansang,Banjulinding,706102,161
+Janjanbureh,Upper Fuladu West,Bansang,Bansang,706103,10149
+Janjanbureh,Upper Fuladu West,Bansang,Boraba,706104,451
+Janjanbureh,Upper Fuladu West,Bansang,Bukary Kunda,706105,16
+Janjanbureh,Upper Fuladu West,Bansang,Buruko,706106,65
+Janjanbureh,Upper Fuladu West,Bansang,Chewell Jaka Alpha,706107,126
+Janjanbureh,Upper Fuladu West,Bansang,Daraman,706109,130
+Janjanbureh,Upper Fuladu West,Bansang,Fuga,706110,397
+Janjanbureh,Upper Fuladu West,Bansang,Jamjam Yerro,706111,16
+Janjanbureh,Upper Fuladu West,Bansang,Jamwelly Sarjo,706121,148
+Janjanbureh,Upper Fuladu West,Bansang,Kesseri Kunda,706112,295
+Janjanbureh,Upper Fuladu West,Bansang,Korop,706113,200
+Janjanbureh,Upper Fuladu West,Bansang,Mabali Koto,706125,397
+Janjanbureh,Upper Fuladu West,Bansang,Mban Sara Kumba,706122,29
+Janjanbureh,Upper Fuladu West,Bansang,Ndakaru,706108,171
+Janjanbureh,Upper Fuladu West,Bansang,Panchang,706127,21
+Janjanbureh,Upper Fuladu West,Bansang,Sara Madou,706126,56
+Janjanbureh,Upper Fuladu West,Bansang,Sare Madi Babadi,706114,192
+Janjanbureh,Upper Fuladu West,Bansang,Sendebou,706115,84
+Janjanbureh,Upper Fuladu West,Bansang,Sinchu Sara Lelleh,706116,109
+Janjanbureh,Upper Fuladu West,Bansang,Sofanyama,706128,88
+Janjanbureh,Upper Fuladu West,Bansang,Sololo Fula Kunda),706117,274
+Janjanbureh,Upper Fuladu West,Bansang,Sololo Mandinka Kunda,706118,1427
+Janjanbureh,Upper Fuladu West,Bansang,Sukurr Kunda,706119,658
+Janjanbureh,Upper Fuladu West,Bansang,Toubanding,706120,284
+Janjanbureh,Upper Fuladu West,Bansang,Yerro Bere Kunda Fula,706123,264
+Janjanbureh,Upper Fuladu West,Bansang,Yerro Beri Kunda Mandinka,706124,720
+Janjanbureh,Upper Fuladu West,Galleh,Galleh Manda,706201,2729
+Janjanbureh,Upper Fuladu West,Galleh,Galleh Wollof,706202,694
+Janjanbureh,Upper Fuladu West,Galleh,Jahanka,706203,1442
+Janjanbureh,Upper Fuladu West,Galleh,Jawo Kunda,706204,283
+Janjanbureh,Upper Fuladu West,Galleh,Kerr Njaga,706205,537
+Janjanbureh,Upper Fuladu West,Galleh,Kerr Ousman Boye,706206,1100
+Janjanbureh,Upper Fuladu West,Galleh,Mbull Manda,706208,270
+Janjanbureh,Upper Fuladu West,Galleh,Medina Tunjang,706207,1993
+Janjanbureh,Upper Fuladu West,Galleh,Njalal,706209,204
+Janjanbureh,Upper Fuladu West,Galleh,Pateh Gai,706210,291
+Janjanbureh,Upper Fuladu West,Galleh,Sare Hamadi,706214,116
+Janjanbureh,Upper Fuladu West,Galleh,Sare Jarbel,706211,345
+Janjanbureh,Upper Fuladu West,Galleh,Sare Kanimang,706212,255
+Janjanbureh,Upper Fuladu West,Galleh,Sare Madi Genteh,706219,347
+Janjanbureh,Upper Fuladu West,Galleh,Sare Mudu,706213,55
+Janjanbureh,Upper Fuladu West,Galleh,Sinchu Chamalel,706215,135
+Janjanbureh,Upper Fuladu West,Galleh,Sinchu Chandery,706216,161
+Janjanbureh,Upper Fuladu West,Galleh,Touba Mboyen,706217,154
+Janjanbureh,Upper Fuladu West,Galleh,Wellingara Demba Kandeh,706218,870
+Janjanbureh,Upper Fuladu West,Daru,Abeokuta,706301,51
+Janjanbureh,Upper Fuladu West,Daru,Cha Kunda,706302,792
+Janjanbureh,Upper Fuladu West,Daru,Charen,706303,185
+Janjanbureh,Upper Fuladu West,Daru,Daru,706305,484
+Janjanbureh,Upper Fuladu West,Daru,Farato Njobo,706306,222
+Janjanbureh,Upper Fuladu West,Daru,Farato Sambayel,706307,249
+Janjanbureh,Upper Fuladu West,Daru,Fass Bellal,706308,240
+Janjanbureh,Upper Fuladu West,Daru,Fori,706309,209
+Janjanbureh,Upper Fuladu West,Daru,Kataba,706310,269
+Janjanbureh,Upper Fuladu West,Daru,Madina Challen,706311,37
+Janjanbureh,Upper Fuladu West,Daru,Madina Jali Madi,706312,77
+Janjanbureh,Upper Fuladu West,Daru,Madina Jiki,706313,174
+Janjanbureh,Upper Fuladu West,Daru,Madina Tamsir,706315,511
+Janjanbureh,Upper Fuladu West,Daru,Ndorna,706316,164
+Janjanbureh,Upper Fuladu West,Daru,Njoben Karim,706318,525
+Janjanbureh,Upper Fuladu West,Daru,Sankabarry,706319,167
+Janjanbureh,Upper Fuladu West,Daru,Santanto Bubu,706320,319
+Janjanbureh,Upper Fuladu West,Daru,Santanto Mawdo,706321,430
+Janjanbureh,Upper Fuladu West,Daru,Santanto Mundong,706322,136
+Janjanbureh,Upper Fuladu West,Daru,Santanto Ousman,706323,113
+Janjanbureh,Upper Fuladu West,Daru,Santanto Samba Dem,706332,147
+Janjanbureh,Upper Fuladu West,Daru,Santanto Wurumang,706324,332
+Janjanbureh,Upper Fuladu West,Daru,Sare Daddy,706325,267
+Janjanbureh,Upper Fuladu West,Daru,Sare Kinti,706304,181
+Janjanbureh,Upper Fuladu West,Daru,Sare Mudu,706326,26
+Janjanbureh,Upper Fuladu West,Daru,Sare Pateh Jawo,706327,193
+Janjanbureh,Upper Fuladu West,Daru,Sinchu  Sam Pateh,706317,107
+Janjanbureh,Upper Fuladu West,Daru,Sinchu Mollen,706314,108
+Janjanbureh,Upper Fuladu West,Daru,Sotokoi Lamin,706333,13
+Janjanbureh,Upper Fuladu West,Daru,Tamba Kunda,706328,77
+Janjanbureh,Upper Fuladu West,Daru,Tandi,706329,181
+Janjanbureh,Upper Fuladu West,Daru,Wellingara,706330,344
+Janjanbureh,Upper Fuladu West,Daru,Wellingara Ngorr,706331,318
+Janjanbureh,Upper Fuladu West,Sare Soffie,Bankuba Samboido,706401,192
+Janjanbureh,Upper Fuladu West,Sare Soffie,Bankuba Yero Yel,706402,124
+Janjanbureh,Upper Fuladu West,Sare Soffie,Bantanto,703107,22
+Janjanbureh,Upper Fuladu West,Sare Soffie,Bantanto,706403,1969
+Janjanbureh,Upper Fuladu West,Sare Soffie,Chargel,706404,480
+Janjanbureh,Upper Fuladu West,Sare Soffie,Dingirai Ansu,706405,83
+Janjanbureh,Upper Fuladu West,Sare Soffie,Dobong Kunda,706406,1566
+Janjanbureh,Upper Fuladu West,Sare Soffie,Dobong Kunda Bakary,706407,251
+Janjanbureh,Upper Fuladu West,Sare Soffie,Fafa Samba Mbery,706408,199
+Janjanbureh,Upper Fuladu West,Sare Soffie,Gabou Faramba,706409,249
+Janjanbureh,Upper Fuladu West,Sare Soffie,Jakaba,706411,88
+Janjanbureh,Upper Fuladu West,Sare Soffie,Jallow Kunda,706412,140
+Janjanbureh,Upper Fuladu West,Sare Soffie,Jamwelly,706447,97
+Janjanbureh,Upper Fuladu West,Sare Soffie,Kali Kunda,706415,152
+Janjanbureh,Upper Fuladu West,Sare Soffie,Kerewan Bakary,706413,210
+Janjanbureh,Upper Fuladu West,Sare Soffie,Kerewan Dumbono,706414,406
+Janjanbureh,Upper Fuladu West,Sare Soffie,Librass,706417,1061
+Janjanbureh,Upper Fuladu West,Sare Soffie,Mabali Kuta,706418,722
+Janjanbureh,Upper Fuladu West,Sare Soffie,Madina Duta Wally,706420,106
+Janjanbureh,Upper Fuladu West,Sare Soffie,Manneh Kunda,706421,441
+Janjanbureh,Upper Fuladu West,Sare Soffie,Medina Banni,706419,102
+Janjanbureh,Upper Fuladu West,Sare Soffie,Misira,706422,593
+Janjanbureh,Upper Fuladu West,Sare Soffie,Ndikiri Kunda,706423,990
+Janjanbureh,Upper Fuladu West,Sare Soffie,Nemataba Alpha,706424,120
+Janjanbureh,Upper Fuladu West,Sare Soffie,Nemataba Mansong,706431,53
+Janjanbureh,Upper Fuladu West,Sare Soffie,Nyameng Kunda,706445,377
+Janjanbureh,Upper Fuladu West,Sare Soffie,Sare Chewto,706426,441
+Janjanbureh,Upper Fuladu West,Sare Soffie,Sare Dembaru,706425,193
+Janjanbureh,Upper Fuladu West,Sare Soffie,Sare Giddeh,706427,350
+Janjanbureh,Upper Fuladu West,Sare Soffie,Sare Jarjeh,706428,99
+Janjanbureh,Upper Fuladu West,Sare Soffie,Sare Jibel,706429,242
+Janjanbureh,Upper Fuladu West,Sare Soffie,Sare Kaba,706448,45
+Janjanbureh,Upper Fuladu West,Sare Soffie,Sare Kali Kandeh,706430,140
+Janjanbureh,Upper Fuladu West,Sare Soffie,Sare Ngallen,706432,275
+Janjanbureh,Upper Fuladu West,Sare Soffie,Sare Pateh,706410,71
+Janjanbureh,Upper Fuladu West,Sare Soffie,Sare Pateh Gassama,706433,228
+Janjanbureh,Upper Fuladu West,Sare Soffie,Sare Sawadi,706434,222
+Janjanbureh,Upper Fuladu West,Sare Soffie,Sare Selery,706435,420
+Janjanbureh,Upper Fuladu West,Sare Soffie,Sare Soffie,706436,465
+Janjanbureh,Upper Fuladu West,Sare Soffie,Sare Temanso,706437,122
+Janjanbureh,Upper Fuladu West,Sare Soffie,Sare Yero Golori,706438,626
+Janjanbureh,Upper Fuladu West,Sare Soffie,Sare Yero Yoba,706416,183
+Janjanbureh,Upper Fuladu West,Sare Soffie,Sare demba Sowe,706439,91
+Janjanbureh,Upper Fuladu West,Sare Soffie,Sinchang Demba Kandeh,706449,16
+Janjanbureh,Upper Fuladu West,Sare Soffie,Sinchang Galajo,706451,92
+Janjanbureh,Upper Fuladu West,Sare Soffie,Sinchu Samba Jawo,706440,280
+Janjanbureh,Upper Fuladu West,Sare Soffie,Sinchu Sega,706452,43
+Janjanbureh,Upper Fuladu West,Sare Soffie,Sukuta,706441,310
+Janjanbureh,Upper Fuladu West,Sare Soffie,Tabato Demba Kandeh,706442,217
+Janjanbureh,Upper Fuladu West,Sare Soffie,Temanto Chedo,706443,474
+Janjanbureh,Upper Fuladu West,Sare Soffie,Temanto Mulai,706444,62
+Janjanbureh,Upper Fuladu West,Sare Soffie,Yerro Muka,706446,69
+Janjanbureh,,Bansang,Bansang,706103,1
+Basse,Jimara,Julangel,Bakadagi,801101,2538
+Basse,Jimara,Julangel,Bana Tenda,801144,1
+Basse,Jimara,Julangel,Busura Alieu,801157,224
+Basse,Jimara,Julangel,Chewel Bessel,801116,135
+Basse,Jimara,Julangel,Demba Lingel,801103,20
+Basse,Jimara,Julangel,Dembanding,801105,285
+Basse,Jimara,Julangel,Fass Jimara,801106,143
+Basse,Jimara,Julangel,Fatako,801107,266
+Basse,Jimara,Julangel,Fula Mori Bochi,801111,274
+Basse,Jimara,Julangel,Hella Kunda,801117,263
+Basse,Jimara,Julangel,Jawo Kunda,801113,359
+Basse,Jimara,Julangel,Julangel,801114,1939
+Basse,Jimara,Julangel,Koro Jula Kunda,801135,247
+Basse,Jimara,Julangel,Koro Numu Kunda,801150,261
+Basse,Jimara,Julangel,Kossemarr Dembell Jawo,801118,136
+Basse,Jimara,Julangel,Kossemarr Mama Sutu,801119,466
+Basse,Jimara,Julangel,Kossemarr Tenda,801120,306
+Basse,Jimara,Julangel,Legay Kunda,801143,135
+Basse,Jimara,Julangel,Madina Samba Jawo,801124,238
+Basse,Jimara,Julangel,Madina/Sare Pateh Jammeh,801139,74
+Basse,Jimara,Julangel,Mankamang Kunda,801126,599
+Basse,Jimara,Julangel,Mballow Kunda Jimara,801140,200
+Basse,Jimara,Julangel,Medina Samba Sowe,801152,297
+Basse,Jimara,Julangel,Missira Banding Jawo,801156,158
+Basse,Jimara,Julangel,Musanding Kunda,801154,429
+Basse,Jimara,Julangel,N'Jum Bakary,801134,398
+Basse,Jimara,Julangel,Oukassa,801153,160
+Basse,Jimara,Julangel,Sabary,801146,47
+Basse,Jimara,Julangel,Sahadatu,801122,89
+Basse,Jimara,Julangel,Sambel Kunda,702129,3
+Basse,Jimara,Julangel,Sambel Kunda,801132,144
+Basse,Jimara,Julangel,Sandy Kunda,801145,664
+Basse,Jimara,Julangel,Sare Ali,801123,216
+Basse,Jimara,Julangel,Sare Ali Jawo,801148,90
+Basse,Jimara,Julangel,Sare Bojo Baga,801102,277
+Basse,Jimara,Julangel,Sare Bojo Gamana,801133,1032
+Basse,Jimara,Julangel,Sare Bojo Samba,801160,572
+Basse,Jimara,Julangel,Sare Cherno,801108,268
+Basse,Jimara,Julangel,Sare Demba Daado,801128,351
+Basse,Jimara,Julangel,Sare Jawbeh,801163,146
+Basse,Jimara,Julangel,Sare Jawbeh Sambaru,801127,174
+Basse,Jimara,Julangel,Sare Jib,801149,229
+Basse,Jimara,Julangel,Sare Kockay,801141,468
+Basse,Jimara,Julangel,Sare Mamudu,801110,298
+Basse,Jimara,Julangel,Sare Mansali,801142,371
+Basse,Jimara,Julangel,Sare Mansong,801164,227
+Basse,Jimara,Julangel,Sare Mbayen,801109,157
+Basse,Jimara,Julangel,Sare N'Gatam,801131,157
+Basse,Jimara,Julangel,Sare N'Jobo,801159,440
+Basse,Jimara,Julangel,Sare Nganya,801166,167
+Basse,Jimara,Julangel,Sare Pateh Bakary,801115,177
+Basse,Jimara,Julangel,Sare Sadda,801147,165
+Basse,Jimara,Julangel,Sare Talata,801162,287
+Basse,Jimara,Julangel,Sare Timbo,801138,75
+Basse,Jimara,Julangel,Sare Touray,801136,99
+Basse,Jimara,Julangel,Sare Wollom,801104,306
+Basse,Jimara,Julangel,Sare Yoreyel,801129,31
+Basse,Jimara,Julangel,Sare Yoro Penda,801112,125
+Basse,Jimara,Julangel,Sifula Kaitel,801155,124
+Basse,Jimara,Julangel,Sinchang Nyebeh,801121,137
+Basse,Jimara,Julangel,Suma Kunda Biram,801137,168
+Basse,Jimara,Julangel,Suma Kunda N'Fally,801161,120
+Basse,Jimara,Julangel,Tabajang,801151,469
+Basse,Jimara,Julangel,Temanto Burugal,801158,99
+Basse,Jimara,Julangel,Timbinto,801130,177
+Basse,Jimara,Julangel,Wassadu Jimara,801167,88
+Basse,Jimara,Julangel,Wellingara Mansal,801125,207
+Basse,Jimara,Julangel,Wellingara Samba Jideh,801169,98
+Basse,Jimara,Julangel,Wellingara Suna,801165,153
+Basse,Jimara,Gambissara,Bahori Jula Kunda,801219,178
+Basse,Jimara,Gambissara,Demba Kunda Koto,801216,1630
+Basse,Jimara,Gambissara,Demba Kunda Kuta,801217,4153
+Basse,Jimara,Gambissara,Demba Kunda Ngalleh,801218,375
+Basse,Jimara,Gambissara,Gambissara,801204,9538
+Basse,Jimara,Gambissara,Numuyel,801201,4381
+Basse,Jimara,Gambissara,Sare Alhagie Sorry,801206,235
+Basse,Jimara,Gambissara,Sare Bondo,801207,306
+Basse,Jimara,Gambissara,Sare Jatta,801208,317
+Basse,Jimara,Gambissara,Sare Juburu,801209,69
+Basse,Jimara,Gambissara,Sare Samabo,801210,182
+Basse,Jimara,Gambissara,Sare Samba Tako,801211,394
+Basse,Jimara,Gambissara,Sare Sankulay,801212,558
+Basse,Jimara,Gambissara,Sare Wassa,801214,257
+Basse,Jimara,Gambissara,Sotoma Samba Koi,801203,824
+Basse,Jimara,Gambissara,Sotuma Sainey Kandeh,801215,266
+Basse,Jimara,Gambissara,Sotuma Sere,801205,1958
+Basse,Jimara,Gambissara,Tabanding,801213,382
+Basse,Basse,Basse,Allunkhareh,802101,5968
+Basse,Basse,Basse,Basse Santo-Su,802102,11450
+Basse,Basse,Basse,Bassending,802103,1208
+Basse,Basse,Basse,Berefeteh,802104,454
+Basse,Basse,Basse,Daba Kunda,802105,87
+Basse,Basse,Basse,Giroba Kunda,802106,772
+Basse,Basse,Basse,Kaba Kama,802107,3151
+Basse,Basse,Basse,Kanubeh,802108,883
+Basse,Basse,Basse,Koba Kunda,802109,7732
+Basse,Basse,Basse,Manneh Kunda,706421,33
+Basse,Basse,Basse,Manneh Kunda,802110,3028
+Basse,Basse,Basse,Mansajang Kunda,802111,2651
+Basse,Basse,Basse,Nafugan Jawando,802112,82
+Basse,Basse,Basse,Nafugan Jomel,802113,230
+Basse,Basse,Basse,Nafugan Pateh,802114,182
+Basse,Basse,Basse,Sabusireh,704210,306
+Basse,Basse,Basse,Sabusireh,802115,663
+Basse,Basse,Basse,Sinchu Magai,704217,3
+Basse,Basse,Basse,Sinchu Magai,802117,152
+Basse,Basse,Basse,Wellingara Kubeh,802118,334
+Basse,Basse,Basse,Wellingara Samba Tacko,802116,1196
+Basse,Basse,Sabi,Allunkhareh Abdou,802201,307
+Basse,Basse,Sabi,Bajong Fula Kunda,802202,154
+Basse,Basse,Sabi,Banasia,802203,32
+Basse,Basse,Sabi,Baniko Afia,802204,52
+Basse,Basse,Sabi,Baniko Ismaila,802205,337
+Basse,Basse,Sabi,Baniko Kekoro,802206,1240
+Basse,Basse,Sabi,Dibbasy Hella,802207,62
+Basse,Basse,Sabi,Fass Bajong,802208,1180
+Basse,Basse,Sabi,Kumbija,507229,2
+Basse,Basse,Sabi,Kumbija,802209,2681
+Basse,Basse,Sabi,Mampatayel,802210,323
+Basse,Basse,Sabi,Sabi,802211,7175
+Basse,Basse,Sabi,Samba Lolo,802212,130
+Basse,Basse,Sabi,Sare Bonna,802213,79
+Basse,Basse,Sabi,Sare Dulo,802214,110
+Basse,Basse,Sabi,Sare Musa,802215,322
+Basse,Basse,Sabi,Sare Pirasu,802216,960
+Basse,Basse,Sabi,Sare Yero Checkeh,802217,199
+Basse,Basse,Sabi,Tabajankeh/Sare Sambel,802218,189
+Basse,Basse,Sabi,Touba Tafsir,802219,709
+Basse,Tumana,Dampha Kunda,Bisandugu,803101,662
+Basse,Tumana,Dampha Kunda,Chamoi,803102,1092
+Basse,Tumana,Dampha Kunda,Dampha Kunda,803103,4496
+Basse,Tumana,Dampha Kunda,Dandu,803104,408
+Basse,Tumana,Dampha Kunda,Darsilami Julay,803105,157
+Basse,Tumana,Dampha Kunda,Darsilami Julla,803135,7
+Basse,Tumana,Dampha Kunda,Dingiri,803106,4471
+Basse,Tumana,Dampha Kunda,Karantaba,803107,208
+Basse,Tumana,Dampha Kunda,Keneba,803108,386
+Basse,Tumana,Dampha Kunda,Kerr Alassan,803132,56
+Basse,Tumana,Dampha Kunda,Kissi Kissi,803109,266
+Basse,Tumana,Dampha Kunda,Kulinto Mawdeh,803110,278
+Basse,Tumana,Dampha Kunda,Kulinto Wally,803111,90
+Basse,Tumana,Dampha Kunda,Kulkuleh,803112,825
+Basse,Tumana,Dampha Kunda,Kunkandiyel,803113,171
+Basse,Tumana,Dampha Kunda,Madina Samako,803114,881
+Basse,Tumana,Dampha Kunda,Madina Yero,803115,121
+Basse,Tumana,Dampha Kunda,Ndimbou,803116,242
+Basse,Tumana,Dampha Kunda,Njayen Wassadu,803117,492
+Basse,Tumana,Dampha Kunda,Nyangumaro/Busura Foday,803118,68
+Basse,Tumana,Dampha Kunda,Saja kunda,803119,231
+Basse,Tumana,Dampha Kunda,Salikene,803120,161
+Basse,Tumana,Dampha Kunda,Sanunding,803121,1345
+Basse,Tumana,Dampha Kunda,Sare Banding,803131,12
+Basse,Tumana,Dampha Kunda,Sare Gela,803122,418
+Basse,Tumana,Dampha Kunda,Sare Mamadi,803123,586
+Basse,Tumana,Dampha Kunda,Sare Talo,803124,107
+Basse,Tumana,Dampha Kunda,Sare Yero Bah,803125,98
+Basse,Tumana,Dampha Kunda,Sendebou,803126,314
+Basse,Tumana,Dampha Kunda,Tambasansang,803127,1274
+Basse,Tumana,Dampha Kunda,Tenkoli,803128,131
+Basse,Tumana,Dampha Kunda,Tinkinjo,803129,536
+Basse,Tumana,Dampha Kunda,Waliba Kunda,803130,767
+Basse,Tumana,Dampha Kunda,Walliba Kunda Sinchang,803134,233
+Basse,Tumana,Kulari,Badari,803201,702
+Basse,Tumana,Kulari,Banno Kunda,803211,115
+Basse,Tumana,Kulari,Ceesay Kunda,803204,264
+Basse,Tumana,Kulari,Diabugu Basillah,803215,1263
+Basse,Tumana,Kulari,Koboto,803209,322
+Basse,Tumana,Kulari,Koli Kunda,803206,443
+Basse,Tumana,Kulari,Kulari,803202,6614
+Basse,Tumana,Kulari,Kundam Demba,803216,465
+Basse,Tumana,Kulari,Kundam Foday,803218,276
+Basse,Tumana,Kulari,Kundam Mafatty,803203,1348
+Basse,Tumana,Kulari,Kundam Mballow,803217,134
+Basse,Tumana,Kulari,Perai,803210,1268
+Basse,Tumana,Kulari,Samba Kunda,803208,268
+Basse,Tumana,Kulari,Sare Alpha,502228,10
+Basse,Tumana,Kulari,Sare Alpha,803214,3078
+Basse,Tumana,Kulari,Sare Garaba,803207,265
+Basse,Tumana,Kulari,Simoto Touba,803213,664
+Basse,Tumana,Kulari,Temanto Nyobung,803212,62
+Basse,Tumana,Kulari,Wellingara Kelepha,803205,29
+Basse,Kantora,Garawol,Baraji Kunda,804101,780
+Basse,Kantora,Garawol,Gambissara Lamoi,804109,1308
+Basse,Kantora,Garawol,Garawol,804102,8849
+Basse,Kantora,Garawol,Gulumbuyel,804103,77
+Basse,Kantora,Garawol,Hamdalai Fafabeh,804104,129
+Basse,Kantora,Garawol,Kanjanbu,804119,354
+Basse,Kantora,Garawol,Kebbeh Kunda,804105,296
+Basse,Kantora,Garawol,Kumbul,804107,260
+Basse,Kantora,Garawol,Kusunu,804108,168
+Basse,Kantora,Garawol,Missiraba Mariam,804110,3731
+Basse,Kantora,Garawol,Sabi Kalilu,804111,341
+Basse,Kantora,Garawol,Sami Koto,502225,13
+Basse,Kantora,Garawol,Sami Koto,804116,768
+Basse,Kantora,Garawol,Sami Kuta,804112,279
+Basse,Kantora,Garawol,Sare Hendeng,804106,137
+Basse,Kantora,Garawol,Sinchang Galo,804114,19
+Basse,Kantora,Garawol,Suduwol,804115,2358
+Basse,Kantora,Garawol,Temanto,804117,210
+Basse,Kantora,Koina,Banni,804201,174
+Basse,Kantora,Koina,Bolibanna,804209,292
+Basse,Kantora,Koina,Brikama,804202,195
+Basse,Kantora,Koina,Chewal,804203,70
+Basse,Kantora,Koina,Fantumbung,804204,587
+Basse,Kantora,Koina,Fatoto,804205,958
+Basse,Kantora,Koina,Gadafaro,804206,123
+Basse,Kantora,Koina,Garawol Kuta,804207,207
+Basse,Kantora,Koina,Gidda,804213,421
+Basse,Kantora,Koina,Hafia Allet,804208,218
+Basse,Kantora,Koina,Hamdalai yero,804210,81
+Basse,Kantora,Koina,Heremankono,804211,649
+Basse,Kantora,Koina,Jawo Kunda,706204,6
+Basse,Kantora,Koina,Jawo Kunda,804212,839
+Basse,Kantora,Koina,Kantel Kunda,804214,366
+Basse,Kantora,Koina,Kassi Kunda,804215,464
+Basse,Kantora,Koina,Keneba,804216,1448
+Basse,Kantora,Koina,Koina,804217,6264
+Basse,Kantora,Koina,Kolly Kunda,804218,224
+Basse,Kantora,Koina,Kukuyel,804232,581
+Basse,Kantora,Koina,Laibeh Kunda,804219,201
+Basse,Kantora,Koina,Madina Balla,804220,151
+Basse,Kantora,Koina,Madina Fula / Sare Sibo,804221,561
+Basse,Kantora,Koina,Nyamanar Kuta,804222,61
+Basse,Kantora,Koina,Nyamanarr,804223,3250
+Basse,Kantora,Koina,Sare Batch,804224,111
+Basse,Kantora,Koina,Sare Biro,804225,211
+Basse,Kantora,Koina,Sare Malla,804226,132
+Basse,Kantora,Koina,Song Kunda,804227,1615
+Basse,Kantora,Koina,Sotuma,804228,208
+Basse,Kantora,Koina,Tenkolly,804229,95
+Basse,Kantora,Koina,Tubanding,804230,128
+Basse,Kantora,Koina,Wellingara Jawo,804231,251
+Basse,Wuli East,Baja Kunda,Baja Kunda,805101,6289
+Basse,Wuli East,Baja Kunda,Baja Kunda Health Center Area,805113,32
+Basse,Wuli East,Baja Kunda,Bantunding,805102,1555
+Basse,Wuli East,Baja Kunda,Boro Dampha Kunda,805104,345
+Basse,Wuli East,Baja Kunda,Boro Kanda Kasseh,805105,1141
+Basse,Wuli East,Baja Kunda,Boro Modi Banni,805106,327
+Basse,Wuli East,Baja Kunda,Boro Samba Ya,805107,238
+Basse,Wuli East,Baja Kunda,Boye Kunda,805103,30
+Basse,Wuli East,Baja Kunda,Fata Tenda,805108,84
+Basse,Wuli East,Baja Kunda,Madina Saho,805109,341
+Basse,Wuli East,Baja Kunda,Sare Gedda,805110,104
+Basse,Wuli East,Baja Kunda,Sare Giddeh,805111,281
+Basse,Wuli East,Baja Kunda,Sutukoba,805112,3763
+Basse,Wuli East,Foday Kunda,Bohoum Kunda,805202,1331
+Basse,Wuli East,Foday Kunda,Brifu,805203,1202
+Basse,Wuli East,Foday Kunda,Darboe Kunda,805214,94
+Basse,Wuli East,Foday Kunda,Demba Kunda(Brifu Fula Kunda),805204,212
+Basse,Wuli East,Foday Kunda,Elli Kunda,805205,516
+Basse,Wuli East,Foday Kunda,Foday Kunda,805206,702
+Basse,Wuli East,Foday Kunda,Gunjur Koto,805208,389
+Basse,Wuli East,Foday Kunda,Jammeh Kunda,805221,284
+Basse,Wuli East,Foday Kunda,Kambelly,805209,179
+Basse,Wuli East,Foday Kunda,Kanapeh,805210,294
+Basse,Wuli East,Foday Kunda,Koli Kunda,805211,544
+Basse,Wuli East,Foday Kunda,Madina Nyantangba,805212,67
+Basse,Wuli East,Foday Kunda,Madina Yoro,805201,200
+Basse,Wuli East,Foday Kunda,Maka Masireh,805213,1048
+Basse,Wuli East,Foday Kunda,Modu Jawo Kunda,805215,326
+Basse,Wuli East,Foday Kunda,Murreh Kunda,805216,643
+Basse,Wuli East,Foday Kunda,Musa Kunda,805217,170
+Basse,Wuli East,Foday Kunda,Passamass Fula,805218,459
+Basse,Wuli East,Foday Kunda,Passamass Mandinka,805219,540
+Basse,Wuli East,Foday Kunda,Sakoli Kunda,805225,68
+Basse,Wuli East,Foday Kunda,Sandi Kunda,805220,190
+Basse,Wuli East,Foday Kunda,Sare Gubu,805207,661
+Basse,Wuli East,Foday Kunda,Sare Keita,805223,103
+Basse,Wuli East,Foday Kunda,Sare Wuro,805224,586
+Basse,Wuli East,Foday Kunda,Tabanding,805226,246
+Basse,Wuli East,Foday Kunda,Wellingara Burama,805227,178
+Basse,Wuli East,Foday Kunda,Wellingara Yarreh,805228,725
+Basse,Wuli West,Sutukonding,Bajonkoto,806101,854
+Basse,Wuli West,Sutukonding,Banni,806102,532
+Basse,Wuli West,Sutukonding,Farato,806103,421
+Basse,Wuli West,Sutukonding,Hamdalai,806104,90
+Basse,Wuli West,Sutukonding,Kerewan,303103,1
+Basse,Wuli West,Sutukonding,Kerewan,806106,650
+Basse,Wuli West,Sutukonding,Kerewan Badala,806105,833
+Basse,Wuli West,Sutukonding,Madina Koto,806107,1001
+Basse,Wuli West,Sutukonding,Sare Demba,806108,167
+Basse,Wuli West,Sutukonding,Sare Donfo,806109,233
+Basse,Wuli West,Sutukonding,Sutukonding,806110,1634
+Basse,Wuli West,Sutukonding,Taibatu,806111,1317
+Basse,Wuli West,Sutukonding,Touba Woppa,806112,649
+Basse,Wuli West,Sutukonding,Touba Wuli,806113,619
+Basse,Wuli West,Sare Ngai,Barrow Kunda,310201,13
+Basse,Wuli West,Sare Ngai,Barrow Kunda,806201,1357
+Basse,Wuli West,Sare Ngai,Chamoi Bunda,806202,1436
+Basse,Wuli West,Sare Ngai,Chamoi Charlie,806203,95
+Basse,Wuli West,Sare Ngai,Draman,806204,408
+Basse,Wuli West,Sare Ngai,Fadia Kunda,806205,442
+Basse,Wuli West,Sare Ngai,Gunjur Jeka,806206,416
+Basse,Wuli West,Sare Ngai,Gunjur Kuta,806207,2441
+Basse,Wuli West,Sare Ngai,Jaka Madina,806209,124
+Basse,Wuli West,Sare Ngai,Jar Kunda,806208,885
+Basse,Wuli West,Sare Ngai,Jawla,806210,239
+Basse,Wuli West,Sare Ngai,Koli Bantang,806211,533
+Basse,Wuli West,Sare Ngai,Kulari,806212,86
+Basse,Wuli West,Sare Ngai,Kusi,806213,484
+Basse,Wuli West,Sare Ngai,Kuwonkunding,806214,278
+Basse,Wuli West,Sare Ngai,Limbanbulu Bambo,806215,757
+Basse,Wuli West,Sare Ngai,Limbanbulu Yamadou,806216,402
+Basse,Wuli West,Sare Ngai,Mano Koto Foday,806217,169
+Basse,Wuli West,Sare Ngai,Mano Koto Keita,806218,139
+Basse,Wuli West,Sare Ngai,Samba Kabudeh,806219,140
+Basse,Wuli West,Sare Ngai,Sankabary,806220,141
+Basse,Wuli West,Sare Ngai,Sare Dadi,806221,26
+Basse,Wuli West,Sare Ngai,Sare Gayo,806222,164
+Basse,Wuli West,Sare Ngai,Sare Hamadi,806223,243
+Basse,Wuli West,Sare Ngai,Sare Kolly,806230,477
+Basse,Wuli West,Sare Ngai,Sare Kungel / Maniyang,806224,137
+Basse,Wuli West,Sare Ngai,Sare N'Gai,806226,1118
+Basse,Wuli West,Sare Ngai,Sare Ngaba,806225,380
+Basse,Wuli West,Sare Ngai,Sare Pateh,806227,144
+Basse,Wuli West,Sare Ngai,Sare Silere,806228,193
+Basse,Wuli West,Sare Ngai,Sare Teneng,806229,131
+Basse,Wuli West,Sare Ngai,Sinchu Sura,806231,216
+Basse,Wuli West,Sare Ngai,Touba Burey,806232,447
+Basse,Wuli West,Sare Ngai,Yorro Bawol,806233,398
+Basse,Sandu,Diabugu,Alimaka,807101,81
+Basse,Sandu,Diabugu,Barrinabeh,807102,150
+Basse,Sandu,Diabugu,Darsilame Jarjeh,807103,185
+Basse,Sandu,Diabugu,Demba Wandu,807104,330
+Basse,Sandu,Diabugu,Diabugu Batapa,807105,5465
+Basse,Sandu,Diabugu,Diabugu Tenda,807106,62
+Basse,Sandu,Diabugu,Jagajary,807107,689
+Basse,Sandu,Diabugu,Jalakoto,807108,222
+Basse,Sandu,Diabugu,Kuraw Arafang,807109,772
+Basse,Sandu,Diabugu,Kuraw Kemo,807110,301
+Basse,Sandu,Diabugu,Mamadi Ceesay Kunda,807111,585
+Basse,Sandu,Diabugu,Nawdeh,807112,584
+Basse,Sandu,Diabugu,Njaibeh,807113,318
+Basse,Sandu,Diabugu,Nyankui,807114,588
+Basse,Sandu,Diabugu,Sankabarry,807115,275
+Basse,Sandu,Diabugu,Sare Batch,807116,60
+Basse,Sandu,Diabugu,Sare Gubu Basiru,807118,717
+Basse,Sandu,Diabugu,Sare Gubu Muntaga,807119,266
+Basse,Sandu,Diabugu,Sare Jollow,807120,320
+Basse,Sandu,Diabugu,Sare Malang,807130,13
+Basse,Sandu,Diabugu,Sare Ngai,807122,239
+Basse,Sandu,Diabugu,Sare Pateh,807123,71
+Basse,Sandu,Diabugu,Sare Sillery,807124,321
+Basse,Sandu,Diabugu,Sinchu Musa,807125,295
+Basse,Sandu,Diabugu,Sinchu Njaibeh,807126,41
+Basse,Sandu,Diabugu,Tabuchindeh,807127,265
+Basse,Sandu,Diabugu,Taifa,807128,45
+Basse,Sandu,Diabugu,Wellingara Demba(Sare Demba),807117,468
+Basse,Sandu,Diabugu,Wellingara Susso,807129,127
+Basse,Sandu,Misera,Changally Chewdo,807201,516
+Basse,Sandu,Misera,Changally Lang Kaddy,807202,864
+Basse,Sandu,Misera,Darsilame Bullembu,807203,1599
+Basse,Sandu,Misera,Darsilame Mandinka,807204,746
+Basse,Sandu,Misera,Darsilame Takutala,807205,1555
+Basse,Sandu,Misera,Gendeh,807206,278
+Basse,Sandu,Misera,Jaka Madina,807208,181
+Basse,Sandu,Misera,Jakaba,604110,1
+Basse,Sandu,Misera,Jakaba,807209,683
+Basse,Sandu,Misera,Kuwonkuba,807210,1365
+Basse,Sandu,Misera,Mbaye Kunda,807212,256
+Basse,Sandu,Misera,Missira,807213,1186
+Basse,Sandu,Misera,Passonto Kadry,807214,30
+Basse,Sandu,Misera,Pilinki Korka,807216,26
+Basse,Sandu,Misera,Pilinki Tumani,807217,227
+Basse,Sandu,Misera,Sare Bayo,807218,116
+Basse,Sandu,Misera,Sare Demba Toro,807219,548
+Basse,Sandu,Misera,Sare Fodikay,807220,649
+Basse,Sandu,Misera,Sare Galo Mballow,807221,224
+Basse,Sandu,Misera,Sare Ganyado,807222,142
+Basse,Sandu,Misera,Sare Jamu Mballow,807223,267
+Basse,Sandu,Misera,Sare Ngengudeh,807224,64
+Basse,Sandu,Misera,Sare Samba Baidi,807234,149
+Basse,Sandu,Misera,Sare Samba Kekuta,807227,212
+Basse,Sandu,Misera,Sare Woka,807228,54
+Basse,Sandu,Misera,Sare Wossi Barry,807225,19
+Basse,Sandu,Misera,Sare Yerrori,807229,450
+Basse,Sandu,Misera,Sinchu Demba,807230,250
+Basse,Sandu,Misera,Suma Kunda,807231,261
+Basse,Sandu,Misera,Tuba Fula,807232,192
+Basse,Sandu,Misera,Tuba Sandu,807233,269
